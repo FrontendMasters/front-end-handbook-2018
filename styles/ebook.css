@@ -1,0 +1,14 @@
+cite{
+	margin-top: -30px;
+	font-size:10px;
+	text-align: center;
+	color: #666;
+}
+
+.page-inner ul, .page-inner ol {
+	margin-bottom:15px !important;
+}
+
+small{
+	font-size:10px;
+}

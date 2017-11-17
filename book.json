@@ -1,0 +1,13 @@
+{
+    "structure": {
+        "readme": "myIntro.md"
+    },
+    "plugins": ["scripts"],
+    "pluginsConfig": {
+        "scripts": {
+            "files": [
+                "./gtm-analytics.js"
+            ]
+        }
+    }
+}
