@@ -1,10 +1,10 @@
-# Front-End Developer Handbook 2017
+# Front-End Developer Handbook 2018
 
 Written by [Cody Lindley](http://codylindley.com/) sponsored by — [Frontend Masters](https://frontendmasters.com/)
 
-![](cover.jpg)
+[NEW COVER IMAGE NEEDED]
 
-This is a guide that anyone could use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2017.
+This is a guide that anyone could use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2018.
 
 It is specifically written with the intention of being a professional resource for potential and currently practicing front-end developers to equip themselves with learning materials and development tools. Secondarily, it can be used by managers, CTOs, instructors, and head hunters to gain insights into the practice of front-end development.
 
@@ -14,7 +14,7 @@ The book should not be considered a comprehensive outline of all resources avail
 
 The intention is to release an update to the content yearly.
 
-The handbook is divided into three parts. 
+The handbook is divided into the following three parts: 
 
 Part I. The Front-End Practice
 ---
@@ -32,11 +32,11 @@ Part three briefly explains and identifies tools of the trade.
  
 **Download a .pdf, .epub, or .mobi file from**:
 
-* [https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+* [https://www.gitbook.com/book/frontendmasters/front-end-handbook-2018/details](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2018/details)
 
 **Contribute content, suggestions, and fixes on github**:
 
-* [https://github.com/FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017)
+* [https://github.com/FrontendMasters/front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018)
 
 ***
 
