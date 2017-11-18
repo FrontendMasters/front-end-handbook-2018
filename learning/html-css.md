@@ -10,6 +10,13 @@
 
 Liken to constructing a house, one might consider HTML the framing and CSS to be the painting & decorating.
 
+##### Beginners:
+This section is for absolute beginners with web development.
+* [HTML Tutorial: W3Schools](https://www.w3schools.com/html/) [read] [course]
+* [CSS Tutorial: W3Schools](https://www.w3schools.com/css/) [read] [course]
+* [Learn to Code HTML & CSS: shayhowe.com](https://learn.shayhowe.com/) [read]
+* [HTML & CSS in 14 Days: ilovecoding.org](https://ilovecoding.org/courses/learn-html-css-in-14-days) [read]
+
 ##### General Learning:
 
 * [Absolute Centering in CSS](http://codepen.io/shshaw/full/gEiDt) [read]
@@ -29,6 +36,10 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [Solid HTML Form Structure](https://webdesign.tutsplus.com/courses/solid-html-form-structure) [watch]
 * [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) [watch]
 * [Resilient Web Design](https://resilientwebdesign.com/) [read]
+* [Responsive Web Design Tutorial](https://www.youtube.com/watch?v=yWgl3xXVlHI&list=PL6gx4Cwl9DGBaTsb1nse1UU48d_q7glGT) [watch] [youtube]
+* [HTML5 Tutorials](https://www.youtube.com/watch?v=Mp0f0zTPLec&list=PL081AC329706B2953) [watch] [youtube]
+
+
 
 ##### Mastering CSS:
 
@@ -50,6 +61,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [HTML Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 * [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [MDN HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
 
 ##### Glossary:
 
