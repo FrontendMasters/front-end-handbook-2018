@@ -8,13 +8,13 @@
 
 ##### HTML, CSS, & JavaScript:
 
-A front-end developer architects and develops websites and applications using web technologies (i.e., HTML, CSS, DOM, and JavaScript), which run on the [web platform][Open Web Platform] or act as compilation input for non-web platform environments (i.e., [NativeScript](https://www.nativescript.org/)).
+A front-end developer architects and develops websites and applications using web technologies (i.e., HTML, CSS, DOM, and JavaScript), which run on the [web platform][Open Web Platform] or act as compilation input for non-web platform environments (i.e., [React Native](https://facebook.github.io/react-native/)).
 
 ![](images/what-is-front-end-dev.png "https://www.upwork.com/hiring/development/front-end-developer/")
 
 <cite>Image source: <a href="https://www.upwork.com/hiring/development/front-end-developer/">https://www.upwork.com/hiring/development/front-end-developer/</a></cite>
 
-Typically, a person enters into the field of front-end development by learning to develop HTML, CSS, and JS code, which runs in a [web browser](https://en.wikipedia.org/wiki/Web_browser), [headless browser](https://en.wikipedia.org/wiki/Headless_browser), [WebView](http://developer.telerik.com/featured/what-is-a-webview/), or as compilation input for a native runtime environment. These four run times scenarios are explained below.
+Typically, a person enters into the field of front-end development by learning to develop HTML, CSS, and JavaScript code, which runs in a [web browser](https://en.wikipedia.org/wiki/Web_browser), [headless browser](https://en.wikipedia.org/wiki/Headless_browser), [WebView](http://developer.telerik.com/featured/what-is-a-webview/), or as compilation input for a native runtime environment. These four run times scenarios are explained below.
 
 ##### Web Browsers
 
@@ -35,7 +35,7 @@ The most common headless browsers are:
 
 * [PhantomJS](http://phantomjs.org/)
 * [slimerjs](http://slimerjs.org/)
-* [trifleJS](http://triflejs.org/)
+* [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
 
 ##### Webviews
 
@@ -53,13 +53,11 @@ Eventually, what is learned from web browser development can be used by front-en
 
 Some examples of these environments are: 
 
-* [NativeScript](https://www.nativescript.org/)
 * [React Native](https://facebook.github.io/react-native/)
+* [NativeScript](https://www.nativescript.org/)
 
 * * *
 
 ###### NOTES:
 
-Make sure you are clear what exactly is meant by the "web platform". Read, ["The Web platform: what it is"](http://tess.oconnor.cx/2009/05/what-the-web-platform-is) and read the, ["Open Web Platform"][Open Web Platform] Wikipedia page.
-
-[Open Web Platform]: https://en.wikipedia.org/wiki/Open_Web_Platform
+Make sure you are clear what exactly is meant by the "web platform". Read, ["The Web platform: what it is"](http://tess.oconnor.cx/2009/05/what-the-web-platform-is) and read the, ["Open Web Platform"](https://en.wikipedia.org/wiki/Open_Web_Platform) Wikipedia page. Explore [the many technologies](https://platform.html5.org/) that make up the web platform.

@@ -9,6 +9,3 @@ Note that just because a tool is listed, or a category of tools is documented, t
 ![](images/spectrum.png "https://medium.com/@withinsight1/the-front-end-spectrum-c0f30998c9f0")
 
 <cite>Image source: <a href="https://medium.com/@withinsight1/the-front-end-spectrum-c0f30998c9f0">https://medium.com/@withinsight1/the-front-end-spectrum-c0f30998c9f0</a></cite>
-
-
-
