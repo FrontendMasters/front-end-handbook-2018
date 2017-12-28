@@ -8,6 +8,7 @@
 
 * [codecademy.com JavaScript](https://www.codecademy.com/en/tracks/javascript) [interact]
 * [JavaScript first steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps) [read]
+* [javascript.info](http://javascript.info/)
 * [JavaScript building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks) [read]
 * [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) [read]
 * [JavaScript object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics) [read]

@@ -12,6 +12,7 @@
 
 ##### General Learning:
 
+* [9 tips to get bare minimum of web accessibility](https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c)
 * [Foundations of UX: Accessibility](http://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html) [watch][$]
 * [How HTML elements are supported by screen readers](http://thepaciellogroup.github.io/AT-browser-tests/?utm_source=html5weekly&utm_medium=email) [read]
 * [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) - Google Open Online Education [watch]

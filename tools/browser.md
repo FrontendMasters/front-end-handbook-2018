@@ -75,6 +75,13 @@ Used for functional testing and monkey testing.
 
 * [browserhacks.com](http://browserhacks.com/)
 
+##### Browser List:
+
+Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env.
+
+* [Browserslist](https://github.com/ai/browserslist)
+  * [http://browserl.ist/](http://browserl.ist/?q=%3E+2%25)
+
 
 
 

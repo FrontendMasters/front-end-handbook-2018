@@ -10,6 +10,7 @@
 * [Foundation](http://foundation.zurb.com/)
 * [Material Design Lite (MDL)](http://www.getmdl.io/index.html)
 * [Metro UI](http://metroui.org.ua/)
+* [Mini.css](https://minicss.org/)
 * [Picnic](http://picnicss.com/)
 * [Pure.css](http://purecss.io/)
 * [Semantic UI](http://semantic-ui.com/)

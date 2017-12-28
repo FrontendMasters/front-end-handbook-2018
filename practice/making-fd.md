@@ -1,8 +1,8 @@
 # How Front-End Developers Are Made
 
-![](../images/making-fd.png "http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg")
+![](../images/makingFED.png "https://github.com/kamranahmedse/developer-roadmap")
 
-<cite>Image source: <a href="http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg">http://cdn.skilledup.com/wp-content/uploads/2014/11/life-of-front-end-developer-infographic-Secondary.jpg</a></cite>
+<cite>Image source: <a href="https://github.com/kamranahmedse/developer-roadmap">https://github.com/kamranahmedse/developer-roadmap</a></cite>
 
 How exactly does one become a front-end developer? Well, it's complicated. Still today you can't go to college and expect to graduate with a degree in front-end engineering. And, I rarely hear of or meet front-end developers who suffered through what is likely a deprecated computer science degree or graphic design degree to end up writing HTML, CSS, and JavaScript professionally. From my perspective, most of the people working on the front-end today, generally seem to be self taught or come from a non accredited program, course, or bootcamp. 
 

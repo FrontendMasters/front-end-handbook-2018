@@ -2,6 +2,7 @@
 
 ##### Reporting:
 
+* [bundlephobia.com](https://bundlephobia.com/)
 * [GTmetrix](https://gtmetrix.com/)
 * [sitespeed.io](https://www.sitespeed.io)
 * [Speed Curve](https://speedcurve.com/) [$]

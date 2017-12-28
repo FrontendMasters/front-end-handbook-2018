@@ -26,6 +26,7 @@
 * [FillText.com](http://www.filltext.com/)
 * [Jam API](https://www.jamapi.xyz/)
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
+* [jsonbin.io](https://jsonbin.io)
 * [jsonbin.org](https://jsonbin.org/)
 * [mockable.io](https://www.mockable.io/)
 * [mockapi.io](http://www.mockapi.io/)

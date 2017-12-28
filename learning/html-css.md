@@ -51,9 +51,10 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [MDN HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-##### Glossary:
+##### Glossary/Vocabulary:
 
 * [CSS Glossary - Programming Reference for CSS Covering Comments, Properties, and Selectors](https://www.codecademy.com/articles/glossary-css)
+* [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en)
 * [HTML Glossary Programming Reference for HTML elements](https://www.codecademy.com/articles/glossary-html)
 
 ##### Standards/Specifications:
