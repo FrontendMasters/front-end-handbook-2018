@@ -32,10 +32,6 @@
 
 * [Tern](https://ternjs.net/)
 
-##### JavaScript Compatibility Checker:
-
-* [jscc.info/](http://jscc.info/)
-
 ##### Linting/Hinting & Style Linter:
 
 * [eslint](http://eslint.org/)
@@ -68,7 +64,7 @@
 ##### Performance Testing:
 
 * [benchmark.js](http://benchmarkjs.com/)
-* [jsperf.co](https://jsperf.co/)
+* [jsperf.com](https://jsperf.com/)
 
 ##### Visualization, Static Analysis, Complexity, Coverage Tools:
 
@@ -88,7 +84,6 @@
 
 ##### Sharable/Runnable Code Editors:
 
-* [es6fiddle.net](http://www.es6fiddle.net/)
 * [jsbin.com](http://jsbin.com/) [free to $]
 * [jsfiddle.net](http://jsfiddle.net/)
 

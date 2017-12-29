@@ -49,7 +49,7 @@ These solutions use a JS engine at runtime to interpret JS and bridge that to na
 * [React Native](https://facebook.github.io/react-native/)
 * [tabris.js](https://tabrisjs.com/) [free to $]
 * [trigger.io](https://trigger.io/how-it-works/) [$]
-* [weex](https://weex-project.io/)
+* [weex](https://weex.apache.org/)
 
 ##### References:
 

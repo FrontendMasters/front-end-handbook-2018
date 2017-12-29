@@ -22,7 +22,6 @@
 * [Auth0](https://auth0.com) [$]
 * [AuthRocket](https://authrocket.com)
 * [Stormpath](https://stormpath.com/)
-* [UserApp](https://www.userapp.io/) [free to $]
 
 
 

@@ -79,7 +79,6 @@
 * [Echo JS](http://www.echojs.com/)
 * [ECMAScript Daily](https://ecmascript-daily.github.io/)
 * [ES.next News](http://esnextnews.com/)
-* [FiveJS](https://fivejs.codeschool.com/)
 * [JavaScript Air](https://javascriptair.com/)
 * [JavaScript Jabber](https://devchat.tv/js-jabber/)
 * [JavaScript Kicks](http://javascriptkicks.com/)

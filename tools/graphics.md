@@ -14,7 +14,7 @@
 
 * [d3](http://d3js.org/)
 * [GraphicsJS](http://www.graphicsjs.org/)
-* [Raphaël](http://raphaeljs.com/)
+* [Raphaël](http://dmitrybaranovskiy.github.io/raphael/)
 * [Snap.svg](http://snapsvg.io/)
 * [svg.js](http://svgjs.com/)
 

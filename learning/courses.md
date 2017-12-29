@@ -44,13 +44,6 @@ If you can't afford a directed education, a self directed education using screen
             <td></td>
         </tr>
         <tr>
-            <td>The Flatiron School</td>
-            <td><a target="_blank" href="http://flatironschool.com/frontend">Introduction to Front-End Web Development</a></td>
-            <td>3,500</td>
-            <td>New York, NY</td>
-            <td></td>
-        </tr>
-        <tr>
             <td>General Assembly</td>
             <td><a target="_blank" href="https://generalassemb.ly/education/front-end-web-development">Frontend Web Development</a></td>
             <td>3,500</td>

@@ -33,7 +33,7 @@
 
 [^1] If you need a basic set of UI Widgets/Components start with [Semantic UI](http://semantic-ui.com/). If you are building something that needs a grid, spreadsheet, or pivot grid you'll have to look at [Kendo UI](http://www.telerik.com/kendo-ui) or [Webix](http://webix.com/). Also, keep in mind that most of these solutions still require jQuery.
 
-[^2] If I was going to build a React app and needed a toolkit of widgets/components off the shelf I'd with [Semantic-UI-React](http://react.semantic-ui.com/introduction) and/or [Ant Design](https://ant.design/), or I would accept that fact the some of the components I want to take off the shelf and use have a hard dependency on jQuery.
+[^2] If I was going to build a React app and needed a toolkit of widgets/components off the shelf I'd with [Semantic-UI-React](https://react.semantic-ui.com/introduction) and/or [Ant Design](https://ant.design/), or I would accept that fact the some of the components I want to take off the shelf and use have a hard dependency on jQuery.
 
 
 

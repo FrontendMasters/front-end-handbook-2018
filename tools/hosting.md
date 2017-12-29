@@ -13,3 +13,7 @@
   * [Bitballoon](https://www.bitballoon.com/)
 * [Surge](https://surge.sh/) [free to $]
 * [Forge](https://getforge.com/) [$]
+
+##### Local
+
+[Localname](https://localname.io)

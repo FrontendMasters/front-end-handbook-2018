@@ -12,7 +12,7 @@ The current modern solution for version control is [Git](https://git-scm.com/). 
 * [Getting Git Right](https://www.atlassian.com/git/) [read]
 * [Git Fundamentals](http://www.pluralsight.com/courses/git-fundamentals) [watch][$]
 * [learn Enough Git](https://www.learnenough.com/git-tutorial) [read]
-* [Ry's Git Tutorial](http://rypress.com/tutorials/git/introduction) [read]
+* [Ry's Git Tutorial](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC) [read]
 
 ##### Mastering:
 

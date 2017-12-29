@@ -13,7 +13,7 @@ A JavaScript template is typically used, but not always with a [MV*](http://todo
 
 ###### NOTES:
 
-Note that JavaScript 2015 (aka ES6) has a native templating mechanism called ["Templates strings"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings). Additionally, templating as of late has been replaced by things like [JSX](https://facebook.github.io/jsx/), [a template element](http://aurelia.io/hub.html#/doc/article/aurelia/templating/latest/templating-basics), or [HTML strings](https://angular.io/docs/ts/latest/guide/template-syntax.html#).
+Note that JavaScript 2015 (aka ES6) has a native templating mechanism called ["Templates strings"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings). Additionally, templating as of late has been replaced by things like [JSX](https://facebook.github.io/jsx/), [a template element](http://aurelia.io/docs/templating/basics), or [HTML strings](https://angular.io/docs/ts/latest/guide/template-syntax.html#).
 
 ***
 

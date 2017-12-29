@@ -18,7 +18,7 @@
 * [Angular 2](https://angular.io/) (in the future aka "[Angular](https://juristr.com/blog/2016/12/let-me-explain-angular-release-cycles/)") gets off the pot and most realize it will never be as mainstream as Angular 1.
 * JavaScript broadly remains at the [center](http://stackoverflow.com/research/developer-survey-2016#technology-top-tech-on-stack-overflow) [of](http://stackoverflow.com/research/developer-survey-2016#technology-most-popular-technologies) [software](http://stackoverflow.com/research/developer-survey-2016#technology-correlated-technologies) technologies.
 * More developers start caring about tooling (e.g. automation) and testing.
-* [Static site generators](https://www.staticgen.com/) are [taken](https://github.com/vigetlabs/gulp-starter/tree/blendid) [seriously](https://phenomic.io/).
+* [Static site generators](https://www.staticgen.com/) are [taken](https://github.com/vigetlabs/blendid) [seriously](https://phenomic.io/).
 * [CSS Grid excitement grows](http://meyerweb.com/eric/thoughts/2016/12/05/css-grid/) and the future looks bright.
 * [NPM](https://www.npmjs.com/) gets some competition from [Yarn](https://yarnpkg.com/).
 * The next evolution of React-like solutions shows up via [Preact](https://preactjs.com/), [Deku](https://github.com/anthonyshort/deku), [Rax](https://github.com/alibaba/rax), and [inferno](https://infernojs.org/) showcasing evolution without much API change.

@@ -11,7 +11,7 @@
 
 * [Deku](https://github.com/anthonyshort/deku)
 * [jquerymy.js](http://jquerymy.com/)
-* [ractive.js](http://www.ractivejs.org/)
+* [ractive.js](https://ractive.js.org/)
 * [react.js](https://facebook.github.io/react/index.html)
 * [riot](http://riotjs.com/)
 * [Rivets.js](http://rivetsjs.com/)
@@ -20,7 +20,6 @@
 ##### Templating to Virtual DOM:
 
 * [JSX](https://facebook.github.io/jsx/)
-* [t7](http://t7js.com/)
 
 
 

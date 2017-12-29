@@ -27,7 +27,6 @@
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [Front-End Dev Weekly](http://frontenddevweekly.com/)
 * [Front End Happy Hour](http://frontendhappyhour.com/)
-* [Front-End News in 5 Minutes](https://frontendfive.codeschool.com/)
 * [frontendfront.com](http://frontendfront.com/)
 * [FrontEnd Focus](http://frontendfocus.co/)
 * [Front End Newsletter](http://frontendnewsletter.com/)

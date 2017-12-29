@@ -16,8 +16,8 @@
 * [HTML5 Please](http://html5please.com/)
 * [HTML5 Test](https://html5test.com/)
 * [iwanttouse.com](http://www.iwanttouse.com/)
-* [jscc.info](http://jscc.info/)
 * [Platform Status](https://dev.modern.ie/platform/status/)
+* [web-platform-tests dashboard](https://wpt.fyi/)
 * [whatwebcando.today](https://whatwebcando.today/)
 
 ##### Browser Development/Debug Tools:

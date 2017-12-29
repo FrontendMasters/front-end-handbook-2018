@@ -12,7 +12,6 @@ A plethora of technical job listing outlets exist. The narrowed list below are c
 * [jobs.emberjs.com](http://jobs.emberjs.com/)
 * [jobs.github.com](https://jobs.github.com/)
 * [weworkremotely.com](https://weworkremotely.com/)
-* [fronthat.com](https://fronthat.com/)
 
 ***
 
