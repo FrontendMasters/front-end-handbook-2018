@@ -7,6 +7,7 @@
 * [sitespeed.io](https://www.sitespeed.io)
 * [Speed Curve](https://speedcurve.com/) [$]
 * [Web Page Test](http://www.webpagetest.org/)
+* [Sonarwhal](https://sonarwhal.com)
 
 ##### JS Tools:
 

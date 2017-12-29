@@ -27,6 +27,7 @@
 * [HTML Entity Lookup](http://entity-lookup.leftlogic.com/)
 * [HTML Interfaces Browser Support ](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
 * [htmlreference.io](http://htmlreference.io/)
+* [HEAD - A free guide to <head> elements](https://gethead.info/)
 
 ##### Linting/Hinting:
 

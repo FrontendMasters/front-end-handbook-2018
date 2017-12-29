@@ -22,6 +22,7 @@
 
 * [ECMA-404 The JSON Data Interchange Format](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
 * [RFC 7159 The JavaScript Object Notation (JSON) Data Interchange Format](https://tools.ietf.org/html/rfc7159)
+* [STD 90 - RFC 8259 - The JavaScript Object Notation (JSON) Data Interchange Format, DECEMBER 2017](https://www.rfc-editor.org/info/rfc8259)
 
 ##### Architecting:
 

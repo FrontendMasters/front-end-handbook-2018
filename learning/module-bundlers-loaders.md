@@ -11,15 +11,11 @@
 
 * [Rollup](http://rollupjs.org/guide/)
 
-##### SystemJS:
-
-* [Modern, Modular JavaScript with SystemJS and jspm](https://app.pluralsight.com/library/courses/javascript-systemjs-jspm/table-of-contents) [watch][$]
-
 ***
 
 ###### NOTES:
 
-It is not uncommon for developers to use a tool like Gulp for bundling JS modules. However, many of the Gulp plugins simply use Webpack, Rollup, or SystemJS under the hood.
+It is not uncommon for developers to use a tool like Gulp for bundling JS modules. However, many of the Gulp plugins simply use Webpack or Rollup under the hood.
 
 
 
