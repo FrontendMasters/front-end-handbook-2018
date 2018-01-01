@@ -1,4 +1,4 @@
-# Recap of Front-end Development in 2016
+# Recap of Front-end Development in 2017
 
 * The year of the [UI component, and tree of UI components](http://developer.telerik.com/featured/front-end-application-frameworks-component-architectures/), for building complex UI's.
 * No longer mainstream development blasphemy: components being constructed from a single file, potentially contain HTML, CSS, and JS, IN ONE FILE!
