@@ -19,24 +19,27 @@
 * [The Web Platform Podcast](http://thewebplatform.libsyn.com/)
 * [Web Tools Weekly](http://webtoolsweekly.com/)
 * [Fresh Brewed Frontend](https://freshbrewed.co/frontend/)
+* [Pony Foo Weekly](https://ponyfoo.com/weekly)
 
 ##### HTML/CSS Newsletters:
 
 * [Accessibility Weekly](http://a11yweekly.com/)
 * [CSS Weekly](http://css-weekly.com/archives/)
-* [Responsive Design Weekly](http://responsivedesignweekly.com/)
+* [CSS-Tricks](https://css-tricks.com/newsletters/)
+* [csslayout.news](http://csslayout.news/)
 
 ##### JavaScript Newsletters, News, &amp; Podcasts:
 
+* [Awesome JavaScript Newsletter](https://js.libhunt.com/)
 * [Echo JS](http://www.echojs.com/)
 * [ECMAScript Daily](https://ecmascript-daily.github.io/)
 * [ES.next News](http://esnextnews.com/)
-* [JavaScript Air](https://javascriptair.com/)
 * [JavaScript Jabber](https://devchat.tv/js-jabber/)
 * [JavaScript Kicks](http://javascriptkicks.com/)
 * [JavaScript Live](https://jslive.com/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [JavaScript.com](https://www.javascript.com/news)
+* [JSter](http://jster.net/blog/)
 * [React Status](https://react.statuscode.com/)
 
 ##### Graphic and Animation Newsletters and Podcasts
@@ -45,3 +48,7 @@
 * [Responsive Images Community Group Newsletter](https://responsiveimages.org/#newsletter)
 * [SVG Immersion Podcast](http://svgimmersion.com/)
 * [Web Animation Weekly](http://webanimationweekly.com/)
+
+###### NOTES:
+
+Need more Newsletters, News Sites, &amp; Podcasts look at [Awesome Newsletter](https://github.com/vredniy/awesome-newsletters).

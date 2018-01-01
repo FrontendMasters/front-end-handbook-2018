@@ -2,7 +2,7 @@
 
 The table below contains instructor led, paid, front-end courses, programs, schools, and bootcamps.
 
-If you can't afford a directed education, a self directed education using screencasts, books, and articles is a viable alternative to learn front-end development for the self-driven individual.
+However, if you can't afford a directed education (can be very expensive), a self directed education using screencasts, books, and articles is a viable alternative to learn front-end development for the self-driven individual.
 
 <table>
     <thead>
@@ -23,25 +23,11 @@ If you can't afford a directed education, a self directed education using screen
             <td></td>
         </tr>
         <tr>
-            <td>Betamore</td>
-            <td><a target="_blank" href="https://betamore.com/academy/full-stack-web-development/">Introduction to Full Stack Web Development</a></td>
-            <td>3,400</td>
-            <td>Baltimore, MD</td>
-            <td></td>
-        </tr>
-        <tr>
             <td>BLOC</td>
             <td><a target="_blank" href="https://www.bloc.io/frontend-development-bootcamp">Become a Frontend Developer</a></td>
             <td>4,999</td>
             <td></td>
             <td>yes</td>
-        </tr>
-        <tr>
-            <td>DecodeMTL</td>
-            <td><a target="_blank" href="http://www.decodemtl.com/">Learn Front-end Web Development</a></td>
-            <td>2,500</td>
-            <td>Montreal, QC</td>
-            <td></td>
         </tr>
         <tr>
             <td>General Assembly</td>
@@ -55,13 +41,6 @@ If you can't afford a directed education, a self directed education using screen
             <td><a target="_blank" href="http://hackeryou.com/front-end-web-development-immersive/">Front-end Web Development Immersive</a></td>
             <td>7,000 - 7,910</td>
             <td>Toronto, Canada</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Iron Yard</td>
-            <td><a target="_blank" href="https://www.theironyard.com/courses.html#front-end-engineering">Front End Engineering</a></td>
-            <td>12,000</td>
-            <td>multiple locations</td>
             <td></td>
         </tr>
         <tr>
@@ -94,3 +73,7 @@ If you can't afford a directed education, a self directed education using screen
         </tr>
     </tbody>
 </table>
+
+###### NOTES:
+
+For a complete list of courses/bootcamps look at [switchup.org](https://www.switchup.org/front-end-development) or [coursereport.com](https://www.coursereport.com/tracks/front-end-developer-bootcamps).
