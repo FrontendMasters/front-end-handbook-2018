@@ -8,7 +8,7 @@
 
 ##### HTML, CSS, & JavaScript:
 
-A front-end developer architects and develops websites and applications using web technologies (i.e., HTML, CSS, DOM, and JavaScript), which run on the [web platform][Open Web Platform] or act as compilation input for non-web platform environments (i.e., [React Native](https://facebook.github.io/react-native/)).
+A front-end developer architects and develops websites and applications using web technologies (i.e., HTML, CSS, DOM, and JavaScript), which run on the [Open Web Platform](https://en.wikipedia.org/wiki/Open_Web_Platform) or act as compilation input for non-web platform environments (i.e., [React Native](https://facebook.github.io/react-native/)).
 
 ![](images/what-is-front-end-dev.png "https://www.upwork.com/hiring/development/front-end-developer/")
 
@@ -20,16 +20,17 @@ Typically, a person enters into the field of front-end development by learning t
 
 A web browser is software used to retrieve, present, and traverse information on the [WWW](https://en.wikipedia.org/wiki/World_Wide_Web). Typically, browsers run on a desktop or laptop computer, tablet, or phone, but as of late a browser can be found on just about anything (i.e, on a fridge, in cars, etc.). 
 
-The most common web browsers are (shown in order of most used first):
+The most common web browsers are (shown in order of [most used first](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers#Summary_tables)):
 
 * [Chrome](http://www.google.com/chrome/)
+* [Safari](http://www.apple.com/safari/)
 * [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer) (Note: not [Edge](http://dev.modern.ie/), referring to IE 9 to IE 11)
 * [Firefox](https://www.mozilla.org/firefox/)
-* [Safari](http://www.apple.com/safari/)
+* [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)
 
 ##### Headless Browsers
 
-Headless browsers are a web browser without a graphical user interface that can be controlled from a command line interface programmatically for the purpose of web page automation (e.g., functional testing, scraping, unit testing, etc.). Think of headless browsers as a browser that you can run from the command line that can retrieve and traverse web pages.
+Headless browsers are a web browser **without** a graphical user interface that can be controlled from a command line interface programmatically for the purpose of web page automation (e.g., functional testing, scraping, unit testing, etc.). Think of headless browsers as a browser that you can run from the command line that can retrieve and traverse web pages.
 
 The most common headless browsers are:
 
