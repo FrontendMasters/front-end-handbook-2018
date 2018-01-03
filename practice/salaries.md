@@ -4,11 +4,13 @@ The national average in the U.S for a mid-level front-end developer is somewhere
 
 ![](../images/salary.png "https://www.glassdoor.com/Salaries/front-end-developer-salary-SRCH_KO0")
 
+<cite>Image source: <a href="https://www.glassdoor.com/Salaries/front-end-developer-salary-SRCH_KO0,19.htm">https://www.glassdoor.com/Salaries/front-end-developer-salary-SRCH_KO0,19.htm</a></cite>
+
 ![](../images/salary3.png "https://www.indeed.com/salaries/Front-End-Developer-Salaries")
 
-Of course when you first start expect to enter the field at around 43k depending upon location and portfolio.
+<cite>Image source: <a href="https://www.indeed.com/salaries/Front-End-Developer-Salaries">https://www.indeed.com/salaries/Front-End-Developer-Salaries</a></cite>
 
-<cite>Image source: <a href="https://www.glassdoor.com/Salaries/front-end-developer-salary-SRCH_KO0,19.htm">https://www.glassdoor.com/Salaries/front-end-developer-salary-SRCH_KO0,19.htm</a></cite>
+Of course when you first start expect to enter the field at around 43k depending upon location and portfolio.
 
 ***
 

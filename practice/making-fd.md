@@ -47,7 +47,7 @@ For example if you want to get going today, consider consuming one or more of th
 * [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) [watch][$]
 * [Full Stack for Front End Engineers](https://frontendmasters.com/courses/full-stack/) [$]
 
-If you are not a self motivated indiviual and need a more structured approach you should consider a [more directed learning path](learning/self-direct-learning).
+If you are not a self motivated indiviual and need a more structured approach you should consider a [more directed learning path](../learning/self-direct-learning#get-there).
 
 
 
