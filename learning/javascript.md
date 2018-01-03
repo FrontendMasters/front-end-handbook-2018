@@ -38,6 +38,7 @@
 * [JavaScript with Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) [read][$]
 * [Test-Driven JavaScript Development](http://www.amazon.com/dp/0321683919/) [read][$]
 * [JS MythBusters](https://mythbusters.js.org/index.html) [read]
+* [Robust JavaScript](https://molily.de/robust-javascript/)
 
 ##### Functional JavaScript:
 

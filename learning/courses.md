@@ -74,6 +74,8 @@ However, if you can't afford a directed education (can be very expensive), a sel
     </tbody>
 </table>
 
+***
+
 ###### NOTES:
 
 For a complete list of courses/bootcamps look at [switchup.org](https://www.switchup.org/front-end-development) or [coursereport.com](https://www.coursereport.com/tracks/front-end-developer-bootcamps).

@@ -102,6 +102,12 @@
 * [Standards for Developing Flexible, Durable, and Sustainable HTML and CSS](http://mdo.github.io/code-guide/) [read]
 * [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) [read]
 
+##### Style Guide Resources:
+
+* [Frontify](https://frontify.com/) [$]
+* [SC5 STYLE GUIDE GENERATOR](http://styleguide.sc5.io/)
+* [styleguide-generators](https://github.com/davidhund/styleguide-generators)
+
 ##### Trending CSS Repositories on GitHub This Month:
 
 [https://github.com/trending?l=css&since=monthly](https://github.com/trending?l=css&since=monthly)

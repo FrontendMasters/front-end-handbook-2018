@@ -45,6 +45,7 @@ These solutions take your application and build it across several platforms and 
 
 These solutions use a JS engine at runtime to interpret JS and bridge that to native APIs. No browser engine or WebView is used. The UI is constructed from native UI components.
 
+* [Flutter](https://flutter.io/)
 * [NativeScript](https://www.nativescript.org/)
 * [React Native](https://facebook.github.io/react-native/)
 * [tabris.js](https://tabrisjs.com/) [free to $]

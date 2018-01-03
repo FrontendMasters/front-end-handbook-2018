@@ -49,6 +49,8 @@
 * [SVG Immersion Podcast](http://svgimmersion.com/)
 * [Web Animation Weekly](http://webanimationweekly.com/)
 
+***
+
 ###### NOTES:
 
 Need more Newsletters, News Sites, &amp; Podcasts look at [Awesome Newsletter](https://github.com/vredniy/awesome-newsletters).

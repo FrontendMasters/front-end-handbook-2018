@@ -1,11 +1,11 @@
 # Animation Tools
 
 * [Animate](https://github.com/daneden/animate.css)
-* [Anime](https://github.com/juliangarnier/anime)
-* [ANIME.JS](http://animejs.com/)
+* [Anime.js](http://animejs.com/)
 * [Animista.net](http://animista.net/)
 * [Dynamics.js](http://dynamicsjs.com/)
 * [GreenSock-JS](http://greensock.com/)
+* [Kute.js](http://thednp.github.io/kute.js/)
 * [Magic](https://github.com/miniMAC/magic)
 * [TweenJS](https://github.com/CreateJS/TweenJS)
 * [Velocity.js](http://julian.com/research/velocity/)

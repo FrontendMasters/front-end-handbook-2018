@@ -5,6 +5,7 @@
 * [Intern](https://theintern.github.io/)
 * [Karma](http://karma-runner.github.io/1.0/index.html)
 * [Jest](http://facebook.github.io/jest/)
+    * [majestic](https://majestic.debuggable.io/)
 
 ##### Unit Testing:
 

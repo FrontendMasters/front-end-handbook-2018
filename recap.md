@@ -1,5 +1,17 @@
 # Recap of Front-end Development in 2017
 
+* [React 16 aka fiber is released](https://reactjs.org/blog/2017/09/26/react-v16.0.html). React begins to rival JQuery in popularity in certain contexts. React clearly is the most used and loved solution for building web UI's with state.
+* Facebook sheds its React BSD license for the MIT license (same for Jest, Flow, Immutable.js, and GraphQL)
+* GraphQL got hot in 2017. and is coming for your REST API.
+* Facebook continues to [take charge in the development space](https://code.facebook.com/projects/) with forthcoming tools like [prepack.io](https://prepack.io/).
+* As expected [ECMA-262 edition 8 is released](https://www.ecma-international.org/publications/standards/Ecma-262.htm).
+* [React Router](https://reacttraining.com/react-router/) finally stabilizes.
+* HTML 5.2 is [done](https://www.w3.org/blog/2017/12/html-5-2-is-done-html-5-3-is-coming/).
+* It was a banner year for [Vue.js](https://vuejs.org/) in terms of adoption and popularity.
+
+
+***
+
 * The year of the [UI component, and tree of UI components](http://developer.telerik.com/featured/front-end-application-frameworks-component-architectures/), for building complex UI's.
 * No longer mainstream development blasphemy: components being constructed from a single file, potentially contain HTML, CSS, and JS, IN ONE FILE!
 * [React](https://facebook.github.io/react/), [Redux](http://redux.js.org/), [Webpack](https://webpack.js.org/), ECMAScript 2015 (aka ES6), and [Babel](https://babeljs.io/) gain massive adoption. These solutions [rise](http://stackoverflow.com/research/developer-survey-2016#technology-trending-tech-on-stack-overflow) [to](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results#js-bundlers) [the](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results#js-framework-essential) [top](http://stateofjs.com/2016/frontend/) [of](http://stateofjs.com/2016/flavors/) [all](http://stateofjs.com/2016/buildtools/) the polls as the most used tech.

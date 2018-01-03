@@ -64,5 +64,7 @@ When the word "Testing" or "QA" is included in the job title, this will denote t
 
 ***
 
-Note that if you come across the "Full Stack" or the generic "Web Developer" terms in job titles these words may be used by an employer to describe a role that is responsible for all aspects of web/app development, i.e., both front-end (potentially including design) and back-end.
+###### NOTES:
+
+If you come across the "Full Stack" or the generic "Web Developer" terms in job titles these words may be used by an employer to describe a role that is responsible for all aspects of web/app development, i.e., both front-end (potentially including design) and back-end.
 

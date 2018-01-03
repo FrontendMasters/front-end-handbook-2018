@@ -76,6 +76,7 @@
 
 * [UglifyJS 2](https://github.com/mishoo/UglifyJS2)
 * [optimize-js](https://github.com/nolanlawson/optimize-js)
+* [Prepack](https://prepack.io/)
 
 ##### Obfuscate:
 

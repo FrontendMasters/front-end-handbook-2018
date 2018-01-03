@@ -4,7 +4,7 @@
 
 <cite>Image source: <a href="http://andyshora.com/full-stack-developers.html">http://andyshora.com/full-stack-developers.html</a></cite>
 
-The roles required to design and develop a web solution require a deep skill set and vast experience in the area of visual design, UI/interaction design, front-end development, and back-end development. Any person who can fill one or more of these 4 roles at a professional level is an extremely rare commodity.
+The roles required to design and develop a web solution require a deep skill set and vast experience in the area of visual design, UI/interaction design, [front-end development](https://github.com/kamranahmedse/developer-roadmap#-front-end-roadmap), and [back-end development](https://github.com/kamranahmedse/developer-roadmap#-back-end-roadmap). Any person who can fill one or more of these 4 roles at a professional level is an extremely rare commodity.
 
 Pragmatically, you should seek to be, or seek to hire, an expert in one of these roles (i.e. Visual Design, Interaction Design/IA, Front-end Dev, Back-end Dev). Those who claim to operate at an expert level at one or more of these roles are exceptionally rare and more than likely mythical.
 
@@ -21,9 +21,9 @@ The term "Full-Stack" developer has come to take on several meanings. So many, t
 
 <cite>Image source: <a href="https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781#.ngcpn8nlz">https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781#.ngcpn8nlz</a></cite>
 
-![](../images/fullstack2.png "http://stackoverflow.com/research/developer-survey-2016#developer-profile-developer-occupations")
+![](../images/fullstack2.png "https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types")
 
-<cite>Image source: <a href="http://stackoverflow.com/research/developer-survey-2016#developer-profile-developer-occupations">http://stackoverflow.com/research/developer-survey-2016#developer-profile-developer-occupations</a></cite>
+<cite>Image source: <a href="https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types">https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types</a></cite>
 
 
 
