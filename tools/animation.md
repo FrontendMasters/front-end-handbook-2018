@@ -1,5 +1,6 @@
 # Animation Tools
 
+* [Animate Plus](https://github.com/bendc/animateplus)
 * [Animate](https://github.com/daneden/animate.css)
 * [Anime.js](http://animejs.com/)
 * [Animista.net](http://animista.net/)
@@ -7,7 +8,9 @@
 * [GreenSock-JS](http://greensock.com/)
 * [Kute.js](http://thednp.github.io/kute.js/)
 * [Magic](https://github.com/miniMAC/magic)
+* [Motion](http://mojs.io/)
 * [TweenJS](https://github.com/CreateJS/TweenJS)
+* [Popmotion](https://popmotion.io)
 * [Velocity.js](http://julian.com/research/velocity/)
 
 ##### Polyfills/Shims:
