@@ -22,13 +22,9 @@ If you were to set out today to become a front-end developer I would loosely str
 
 A short word of advice on learning. [Learn the actual underlying technologies, before learning abstractions.](https://youtu.be/QjKH1J77gjI?list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL) Don't learn jQuery, learn the DOM. Don't learn SASS, learn CSS. Don't learn HAML, learn HTML. Don't learn CoffeeScript, learn JavaScript. Don't learn Handlebars, learn JavaScript ES6 templates. Don't just use Bootstrap, learn UI patterns. 
 
-When getting your start, you should fear most things that conceal complexity. Abstractions in the wrong hands can give the appearance of advanced skills, while all the time hiding the fact that a developer has an inferior understanding of the basics or underlying concepts.
-
-The remaining parts of this book will point the reader to potential resources that could be used to learn front-end development and the tools used when practicing front-end development. It is assumed that on this journey you are not only learning, but also doing as you learn and investigate tools. Some suggest only doing to learn. While others suggest only learning about doing. I suggest you find a mix of both that matches how your brain works and do that. But, for sure, it is a mix! So, don't just read about it, do it. Learn, do. Learn, do. Repeat indefinitely because things change fast. This is why learning the fundamentals, and not abstractions, are so important.
-
 Lately a lot of non-accredited, expensive, front-end code schools/bootcamps have emerged. These avenues of becoming a front-end developer are typically teacher directed courses, that follow a more traditional style of learning, from an official instructor (i.e., syllabus, test, quizzes, projects, team projects, grades, etc.). Keep in mind, if you are considering an expensive training program, this is the web! Everything you need to learn is on the web for the taking, costing little to nothing. However, if you need someone to tell you how to take and learn what is actually free, and hold you accountable for learning it, you might consider an organized course. Otherwise, I am not aware of any other profession that is practically free for the taking with an internet connection, a hundred dollars a month for screencasting memberships, and a burning desire for knowledge.
 
-For example if you want to get going today, consider consuming one or more of the following self-driven resources below:
+For example if you want to get going today, consuming one or more of the following self-directed resources below can work:
 
 * [2016/2017 MUST-KNOW WEB DEVELOPMENT TECH](https://www.youtube.com/watch?v=sBzRwzY7G-k) [watch]
 * [A Beginner's Guide to Front-End Programming](https://www.springboard.com/learning-paths/beginners-guide-front-end-programming/learn/) [read & watch][free to $]
@@ -47,7 +43,11 @@ For example if you want to get going today, consider consuming one or more of th
 * [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) [watch][$]
 * [Full Stack for Front End Engineers](https://frontendmasters.com/courses/full-stack/) [$]
 
-If you are not a self motivated indiviual and need a more structured approach you should consider a [directed learning path](../learning/self-direct-learning.md#get-there).
+If you are not a self motivated individual and need a more structured approach you should consider a [directed learning path](../learning/direct-learning.md#get-there).
+
+When getting your start, you should fear most things that conceal complexity. Abstractions in the wrong hands can give the appearance of advanced skills, while all the time hiding the fact that a developer has an inferior understanding of the basics or underlying concepts.
+
+The remaining parts of this book will point the reader to potential resources that could be used to learn front-end development and the tools used when practicing front-end development. It is assumed that on this journey you are not only learning, but also doing as you learn and investigate tools. Some suggest only doing to learn. While others suggest only learning about doing. I suggest you find a mix of both that matches how your brain works and do that. But, for sure, it is a mix! So, don't just read about it, do it. Learn, do. Learn, do. Repeat indefinitely because things change fast. This is why learning the fundamentals, and not abstractions, are so important.
 
 
 

@@ -23,7 +23,7 @@ The current modern solution for version control is [Git](https://git-scm.com/). 
 ##### References/Docs:
 
 * [https://git-scm.com/doc](https://git-scm.com/docs)
-
+* [git-cheatsheet](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5)
 
 
 

@@ -8,6 +8,7 @@
 * [npms](https://npms.io/)
 * [stackshare.io](http://stackshare.io/)
 * [Unheap](http://www.unheap.com/)
+* [bestof.js.org](https://bestof.js.org/)
 
 
 

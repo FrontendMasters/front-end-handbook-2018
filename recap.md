@@ -8,6 +8,9 @@
 * [React Router](https://reacttraining.com/react-router/) finally stabilizes.
 * HTML 5.2 is [done](https://www.w3.org/blog/2017/12/html-5-2-is-done-html-5-3-is-coming/).
 * It was a banner year for [Vue.js](https://vuejs.org/) in terms of adoption and popularity.
+* [The great divide between a front-end HTML & CSS developer v.s. front-end application developer is realized/verbalized.](https://medium.com/@jerrylowm/the-death-of-front-end-developers-803a95e0f411)
+* This year seemed fuller than most of solutions trying to contended with the mainstream javascript app tools (i.e. [React, Angular, and Vue etc...](https://stateofjs.com/2017/front-end/results)) Let me list them for you. [Moon](http://moonjs.ga/docs/overview.html), [Marko](https://markojs.com/), [Hyperapp](https://github.com/hyperapp/hyperapp), [Quasar Framework](http://quasar-framework.org/), [POI](https://poi.js.org), [frint](https://frint.js.org/), [BunnyJS](https://bunnyjs.com/), [jsblocks](http://jsblocks.com/), [Sapper](https://sapper.svelte.technology/), [Stimulus](https://github.com/stimulusjs/stimulus), [Choo](https://github.com/choojs/choo), 
+* This was the year that jsbin and jsfiddle evolved to things like [StackBliz](https://stackblitz.com/) and [codeSandbox](https://codesandbox.io/). Making it dead simple to share a working React app.
 
 
 ***
