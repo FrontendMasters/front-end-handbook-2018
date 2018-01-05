@@ -61,6 +61,7 @@ These solutions use a JS engine at runtime to interpret JS and bridge that to na
 ##### Performance:
 
 * [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark)
+* [Front-End Performance Checklist 2018](https://www.dropbox.com/s/8h9lo8ee65oo9y1/front-end-performance-checklist-2018.pdf?dl=0)
 
 ***
 

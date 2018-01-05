@@ -18,6 +18,7 @@
 * [Web Performance Daybook Volume 2](https://www.amazon.com/Web-Performance-Daybook-Techniques-Optimizing/dp/1449332919/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=59e32c394c2377bb17af1d801b924d1d&camp=1789&creative=9325) [read][$]
 * [Website Performance](https://frontendmasters.com/courses/website-performance/) [watch][$]
 * [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) [watch]
+* [Front-End Performance Checklist 2018 [PDF, Apple Pages]](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/) [read]
 
 
 

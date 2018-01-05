@@ -5,6 +5,8 @@
 * [Rollup](http://rollupjs.org/)
 * [webpack](https://webpack.js.org/)
   * [http://www.webpackbin.com/](http://www.webpackbin.com/)
+* [Fusebox](https://fuse-box.org/)
+* [browserify](http://browserify.org/)
 
 ***
 

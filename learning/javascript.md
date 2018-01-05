@@ -6,6 +6,7 @@
 
 ##### Getting Started:
 
+* [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
 * [codecademy.com JavaScript](https://www.codecademy.com/en/tracks/javascript) [interact]
 * [JavaScript first steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps) [read]
 * [javascript.info](http://javascript.info/)
@@ -22,6 +23,7 @@
 * [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) [read]
 * [Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/) [read]
 * [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) [read]
+* [Modern JavaScript Cheatsheet - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.](https://github.com/mbeaudru/modern-js-cheatsheet) [read]
 
 ##### Mastering:
 

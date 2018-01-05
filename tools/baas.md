@@ -3,16 +3,15 @@
 ##### Data/back-end as a service aka BAAS:
 
 * [Back&](https://www.backand.com/) [free to $]
+* [Backendless](https://backendless.com)
 * [Firebase](https://www.firebase.com/index.html) [free to $]
-* [Kinvey](http://www.kinvey.com/) [free'ish to $]
 * [Pusher](https://pusher.com/) [free to $]
 * [restdb.io](https://restdb.io/) [free to $]
 
 ##### Data/back-end
 
-* [Horizon](http://horizon.io/)
 * [GraphQL](http://graphql.org/)
-  * [http://www.apollodata.com/](http://www.apollodata.com/)
+  * [Apollo](http://www.apollodata.com/)
   * [Relay](https://facebook.github.io/relay/)
 * [Falcor](https://netflix.github.io/falcor/)
 * [RxDB](https://github.com/pubkey/rxdb)

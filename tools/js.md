@@ -17,6 +17,7 @@
 * [Moment.js](http://momentjs.com/)
 * [Numeral.js](http://numeraljs.com/)
 * [Ramda](http://ramdajs.com/)
+* [RxJS](http://reactivex.io/rxjs/)
 * [string.js](http://stringjs.com/)
 * [voca](https://vocajs.com/)
 * [wait](https://github.com/elving/wait)
@@ -74,6 +75,7 @@
 
 ##### Optimizer:
 
+* [Closure Compiler](https://developers.google.com/closure/compiler/)
 * [UglifyJS 2](https://github.com/mishoo/UglifyJS2)
 * [optimize-js](https://github.com/nolanlawson/optimize-js)
 * [Prepack](https://prepack.io/)

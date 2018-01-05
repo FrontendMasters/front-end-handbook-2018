@@ -6,6 +6,7 @@
 * [Karma](http://karma-runner.github.io/1.0/index.html)
 * [Jest](http://facebook.github.io/jest/)
     * [majestic](https://majestic.debuggable.io/)
+    * [Enzyme]()
 
 ##### Unit Testing:
 
@@ -33,6 +34,11 @@
 * [Nightcloud.io](http://nightcloud.io/)
 * [Sauce Labs](https://saucelabs.com/) [$]
 
+##### Integration/Functional Testing:
+
+* [Cypress](https://www.cypress.io/)
+* [Nightwatch](http://nightwatchjs.org/)
+
 ##### Browser Automation:
 
 * [CasperJS](http://casperjs.org/)
@@ -49,6 +55,7 @@
 * [diff.io](https://diff.io/)
 
 ##### Automated dead link and error detectors:
+
 * [Monkey Test It](https://monkeytest.it/)
 
 ***
@@ -56,6 +63,8 @@
 ###### NOTES:
 
 Testing frameworks typically offer more tools than just unit testing. If you are looking for JavaScript unit testing solutions look at [JavaScript Tools](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/tools/js.html).
+
+Nice [recap of testing JavaScript in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a).
 
 ***
 
