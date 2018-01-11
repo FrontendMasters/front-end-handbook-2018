@@ -4,9 +4,16 @@
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Search_engine_optimization)</cite>
 
+how-does-seo-work.png
+
+![](../images/how-does-seo-work.png "https://visual.ly/community/infographic/computers/how-does-seo-work")
+
+<cite>Image source: <a href="https://visual.ly/community/infographic/computers/how-does-seo-work">https://visual.ly/community/infographic/computers/how-does-seo-work</a></cite>
+
 ##### General Learning:
 
 * [Google Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf) [read]
+* [Modern SEO](https://frontendmasters.com/workshops/modern-seo/) [watch][$]
 * [SEO Fundamentals From David Booth](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html) [watch][$]
 * [SEO Fundamentals From Paul Wilson](http://www.pluralsight.com/courses/seo-fundamentals) [watch][$]
 * [SEO Tutorial For Beginners in 2016](http://www.hobo-web.co.uk/seo-tutorial/) [read]

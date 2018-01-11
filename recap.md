@@ -1,6 +1,8 @@
 # Recap of Front-end Development in 2017
 
-* [React 16 aka fiber is released](https://reactjs.org/blog/2017/09/26/react-v16.0.html). React begins to rival JQuery in popularity in certain contexts. React [clearly](https://twitter.com/npmjs/status/949017852702543876) is the most used and loved solution for building web UI's with state.
+* [React 16 aka fiber is released](https://reactjs.org/blog/2017/09/26/react-v16.0.html). 
+* React begins to rival JQuery in popularity in certain contexts. 
+* React [clearly](https://twitter.com/npmjs/status/949017852702543876) is the [most used](https://www.npmjs.com/npm/state-of-javascript-frameworks-2017-part-1) tool [for building UI's](https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/) with state.
 * Facebook sheds its React BSD license for the MIT license (same for Jest, Flow, Immutable.js, and GraphQL)
 * [GraphQL](https://dev-blog.apollodata.com/2017-the-year-in-graphql-124a050d04c6) got [hot in 2017](https://www.graphql.com/case-studies/). And its coming for your REST API's.
 * Facebook continues to [take charge in the development space](https://code.facebook.com/projects/) with forthcoming tools like [prepack.io](https://prepack.io/).
@@ -11,7 +13,7 @@
 * The [great](https://medium.com/@jerrylowm/the-death-of-front-end-developers-803a95e0f411) divide between a front-end HTML & CSS developer v.s. [front-end application developer is realized/verbalized](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06).
 * This year seemed fuller than most of solutions trying to contend with the mainstream javascript app tools (i.e. [React, Angular, and Vue etc...](https://stateofjs.com/2017/front-end/results)) Let me list them for you. [Moon](http://moonjs.ga/docs/overview.html), [Marko](https://markojs.com/), [Hyperapp](https://github.com/hyperapp/hyperapp), [Quasar Framework](http://quasar-framework.org/), [POI](https://poi.js.org), [frint](https://frint.js.org/), [BunnyJS](https://bunnyjs.com/), [jsblocks](http://jsblocks.com/), [Sapper](https://sapper.svelte.technology/), [Stimulus](https://github.com/stimulusjs/stimulus), [Choo](https://github.com/choojs/choo), 
 * This was the year that jsbin and jsfiddle evolved to things like [StackBliz](https://stackblitz.com/) and [codeSandbox](https://codesandbox.io/). Making it dead simple to share a working React app.
-* React continues to be flattered by things like [preact](https://preactjs.com/), [inferno](https://infernojs.org/), and [rax](https://github.com/alibaba/rax).
+* React continues to be flattered by things like [preact](https://preactjs.com/), [inferno](https://infernojs.org/), [nerv](https://github.com/NervJS/nerv) and [rax](https://github.com/alibaba/rax).
 * Cheatsheets got organized with [devhints.io](https://devhints.io/).
 * We figured out that the correct pattern for an app boilerplate/cli tool is something very opinionated like [React Create App](https://github.com/facebookincubator/create-react-app) with the ability to [escape](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#npm-run-eject) from it when needed.
 * Most developers have found that the combination of a really good code editor and eslint and [prettier](https://github.com/prettier/prettier) plugins make writing code faster and easier.
@@ -19,6 +21,10 @@
 * We [get](https://blog.chromium.org/2017/05/chrome-59-beta-headless-chromium-native.html), a [headless chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md).
 * You no longer need Less or Sass [to do](https://shoelace.style) amazing [things with CSS](http://cssnext.io/features/).
 * CSS [revolutions/revolts](http://ryanogles.by/css/javascript/2017/05/25/the-state-of-css.html) are under way.
+* JavaScript explorer tools have arrived, [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
+and [JavaScript Object Explorer](https://sdras.github.io/object-explorer/). This is a handy interface pattern for learning about JavaScript data types (e.g. Objects and Arrays) and their methods. 
+* The [Chrome web browser dominates the market](http://gs.statcounter.com/browser-market-share) and people begin to fear [repeating the past](https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards).
+* [Brave](https://brave.com/) becomes the most pleasant and safest way to browser the internet.
 
 ***
 

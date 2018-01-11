@@ -39,7 +39,7 @@
 * [JavaScript Live](https://jslive.com/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [JavaScript.com](https://www.javascript.com/news)
-* [JSter](http://jster.net/blog/)
+* [JSter](http://jster.net/blog)
 * [React Status](https://react.statuscode.com/)
 
 ##### Graphic and Animation Newsletters and Podcasts

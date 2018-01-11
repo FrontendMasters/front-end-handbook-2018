@@ -28,6 +28,12 @@
 
 * [JSON API](http://jsonapi.org/)
 
+***
+
+###### NOTES:
+
+JSON apis are evolving into things like [GraphQL](http://graphql.org/) and [Falcor](http://netflix.github.io/falcor/).
+
 
 
 

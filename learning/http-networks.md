@@ -17,9 +17,14 @@
 * [HTTP/2](https://http2.github.io/)
 * [Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
 
-##### HTTP
+##### HTTP Docs
+
+* [MDN HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) [read]
+
+##### HTTP Videos/Articles/Tutorials
 
 * [High Performance Browser Networking: What Every Web Developer Should Know About Networking and Web Performance](http://chimera.labs.oreilly.com/books/1230000000545/index.html) [read]
+* [MDN: An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) [read]
 * [HTTP: The Definitive Guide (Definitive Guides)](https://www.amazon.com/HTTP-Definitive-Guide-Guides/dp/1565925092/ref=cm_cr_arp_d_product_top?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=11b990b79d33ddbef63712765715a9c1&camp=1789&creative=9325) [read][$]
 * [HTTP/2 Frequently Asked Questions](https://http2.github.io/faq/#what-are-the-key-differences-to-http1x) [read]
 * [HTTP Fundamentals](http://www.pluralsight.com/courses/xhttp-fund) [watch][$]

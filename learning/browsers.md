@@ -12,17 +12,18 @@
 3. [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie) (engine: [Trident](https://en.wikipedia.org/wiki/Trident_%28layout_engine%29) + [Chakra](https://en.wikipedia.org/wiki/Chakra_%28JScript_engine%29))
 4. [Safari](https://www.apple.com/safari/) (engine: [Webkit](https://en.wikipedia.org/wiki/WebKit) + [SquirrelFish](https://trac.webkit.org/wiki/SquirrelFish))
 
-![](../images/statcounter.png "http://gs.statcounter.com/#all-browser_version_partially_combined-ww-daily-20160101-20161201-bar")
+![](../images/statcounter.png "http://gs.statcounter.com/browser-market-share")
 
-<cite>Image source: <a href="http://gs.statcounter.com/#all-browser_version_partially_combined-ww-daily-20160101-20161201-bar">http://gs.statcounter.com/#all-browser_version_partially_combined-ww-monthly-201501-201601-bar</a></cite>
+<cite>Image source: <a href="http://gs.statcounter.com/browser-market-share">http://gs.statcounter.com/browser-market-share</a></cite>
 
 ##### Evolution of Browsers & Web Technologies (i.e., APIs)
 
 * [evolutionoftheweb.com](http://www.evolutionoftheweb.com/) [read]
 * [Timeline of web browsers](https://en.wikipedia.org/wiki/Timeline_of_web_browsers) [read]
 
-##### The Most Commonly Used Headless Browser Are:
+##### The Most Commonly Used [Headless Browser](http://www.asad.pw/HeadlessBrowsers/) Are:
 
+* [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) (engine: [Blink](https://www.chromium.org/blink) + V8)
 * [PhantomJS](http://phantomjs.org/) (engine: [Webkit](https://en.wikipedia.org/wiki/WebKit) + SquirrelFish)
 * [SlimerJS](http://slimerjs.org/) (engine: [Gecko](https://en.wikipedia.org/wiki/Gecko_%28software%29) + [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_%28software%29))
 * [TrifleJS](https://github.com/sdesalas/trifleJS) (engine: [Trident](https://en.wikipedia.org/wiki/Trident_%28layout_engine%29) + [Chakra](https://en.wikipedia.org/wiki/Chakra_%28JScript_engine%29))

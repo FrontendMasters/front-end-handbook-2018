@@ -29,7 +29,7 @@
     	* [Learn JavaScript](learning/javascript.md)
         * [Learn Web Animation](learning/animation.md) 
     	* [Learn DOM, BOM & jQuery](learning/dom.md)
-        * [Learn Web Fonts](learning/fonts.md)
+        * [Learn Web Fonts, Icons, & Images](learning/fonts.md)
         * [Learn Accessibility](learning/accessibility.md)
         * [Learn Web/Browser APIs](learning/web-api.md) 
         * [Learn JSON](learning/json.md)

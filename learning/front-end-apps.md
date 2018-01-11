@@ -33,25 +33,7 @@ Not a lot of general content is being created on this topic as of late. Most of 
 
 ###### ADVICE:
 
-[^1] In 2017 learn [Webpack](https://webpack.js.org/), [React](https://facebook.github.io/react/), and [Redux](http://redux.js.org/). Start with, ["A Complete Intro to React"](https://btholt.github.io/complete-intro-to-react/) and ["Building Applications with React and Redux in ES6"](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents).
-
-***
-
-###### SURVEY RESULTS:
-
-The images below are from the [2016 Frontend Tooling Survey](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results) (4715 developers) and [2016 State of JS Survey](http://stateofjs.com/) (9307 developers)
-
-![](../images/q13.jpg "https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results")
-
-<cite>Image source: <a href="https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results">https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results</a></cite>
-
-![](../images/frameworks1.png "http://stateofjs.com/")
-
-<cite>Image source: <a href="http://stateofjs.com/">http://stateofjs.com/</a></cite>
-
-![](../images/frameworks2.png "http://stateofjs.com/")
-
-<cite>Image source: <a href="http://stateofjs.com/">http://stateofjs.com/</a></cite>
+[^1] In [2018](https://stateofjs.com/2017/front-end/results) learn [React](https://facebook.github.io/react/) and [Mobx](https://github.com/mobxjs/mobx).
 
 
 

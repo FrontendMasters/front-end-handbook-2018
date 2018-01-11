@@ -21,6 +21,7 @@ The ideal path, but certainly the most difficult, would be to first learn JavaSc
 * [HTML/JS: Making Webpages Interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) [watch]
 * [HTML/JS: Making Webpages Interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) [watch]
 * [jQuery Enlightenment](http://jqueryenlightenment.com/) [read]
+* [What is the DOM?](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) [read]
 
 ##### Mastering:
 

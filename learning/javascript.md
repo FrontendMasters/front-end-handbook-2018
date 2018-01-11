@@ -8,11 +8,9 @@
 
 * [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
 * [codecademy.com JavaScript](https://www.codecademy.com/en/tracks/javascript) [interact]
-* [JavaScript first steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps) [read]
+* [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) [read]
 * [javascript.info](http://javascript.info/)
-* [JavaScript building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks) [read]
 * [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) [read]
-* [JavaScript object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics) [read]
 * [Eloquent JavaScript](http://eloquentjavascript.net/) [read]
 
 ##### General Learning:
@@ -31,7 +29,7 @@
 * [ES6 FOR EVERYONE!](https://es6.io/) [watch][$]
 * [Exploring ES6](http://exploringjs.com/es6.html) [read]
 * [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) [read]
-* [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.com/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571/ref=as_li_ss_tl?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=1ca4f5f23b42aeadad0990ab3bf91ca7&camp=1789&creative=9325) [read]
+* [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.com/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571/ref=as_li_ss_tl?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=1ca4f5f23b42aeadad0990ab3bf91ca7&camp=1789&creative=9325) [read][$]
 * [ES6: The Right Parts](https://frontendmasters.com/courses/es6-right-parts/) [watch][$]
 * [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017.html) [read]
 * [JavaScript Regular Expression Enlightenment](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/) [read]
@@ -49,6 +47,7 @@
 * [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) [read]
 * [Functional Programming in JavaScript: How to improve your JavaScript programs using functional techniques](https://www.amazon.com/Functional-Programming-JavaScript-functional-techniques/dp/1617292826/ref=sr_1_1?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=dcc6b0cb7de57fa841f1b178d2d54b9d&camp=1789&creative=9325) [read]
 * [Mostly adequate guide to FP (in javascript)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) [read]
+* [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) [watch]
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
 * [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) [watch][$]
 * [Functional-Lite JavaScript](https://frontendmasters.com/courses/functional-js-lite/) [watch][$]
@@ -67,8 +66,9 @@
 ##### Standards/Specifications:
 
 * [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
-* [ECMAScript® 2016 Language Specification](https://www.ecma-international.org/ecma-262/7.0/)
-* [ECMAScript® 2017 Language Specification](https://tc39.github.io/ecma262/)
+* [ECMAScript® 2016 Language Specification](https://www.ecma-international.org/ecma-262/7.0/index.html)
+* [ECMAScript® 2017 Language Specification](http://www.ecma-international.org/ecma-262/8.0/index.html)
+* [ECMAScript® 2018 Language Specification](https://tc39.github.io/ecma262/)
 * [Status, Process, and Documents for ECMA262](https://github.com/tc39/ecma262)
 
 ##### Style:
@@ -105,7 +105,10 @@
 * [High Performance JavaScript (Build Faster Web Application Interfaces)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) [read][$]
 * [Advanced JavaScript](https://frontendmasters.com/courses/advanced-javascript/) [watch][$]
 
+##### JS Explorers:
 
+* [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
+* [JavaScript Object Explorer](https://sdras.github.io/object-explorer/)
 
 
 
