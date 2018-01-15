@@ -2,14 +2,19 @@
 
 ##### Webpack:
 
-* [Webpack](https://webpack.js.org/)
-* [Webpack Deep Dive](https://frontendmasters.com/courses/webpack/)  [read]
+* [Webpack](https://webpack.js.org/guides/getting-started/) [read]
+* [Webpack Deep Dive](https://frontendmasters.com/courses/webpack/) [watch][$]
 * [Webpack Fundamentals](http://www.pluralsight.com/courses/webpack-fundamentals) [watch][$]
-* [Survivejs.com Webpack Book](https://survivejs.com/webpack/introduction/)  [read]
+* [Survivejs.com Webpack Book](https://survivejs.com/webpack/introduction/) [read]
 
 ##### Rollup:
 
-* [Rollup](http://rollupjs.org/guide/)
+* [Rollup](http://rollupjs.org/guide/) [read]
+    * [Microbundle](https://github.com/developit/microbundle)
+
+##### Parcel
+
+* [Parcel](https://parceljs.org/getting_started.html) [read]
 
 ***
 

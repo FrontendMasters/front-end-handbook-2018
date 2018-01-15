@@ -1,30 +1,24 @@
 # Module Loading/Bundling Tools 
 
-* [Microbundle](https://github.com/developit/microbundle)
 * [Parcel](https://parceljs.org/)
 * [Rollup](http://rollupjs.org/)
+  * [Microbundle](https://github.com/developit/microbundle)
 * [webpack](https://webpack.js.org/)
   * [http://www.webpackbin.com/](http://www.webpackbin.com/)
 * [Fusebox](https://fuse-box.org/)
-* [browserify](http://browserify.org/)
+* [Browserify](http://browserify.org/)
 
 ***
 
-###### SURVEY RESULTS:
+###### Notes:
 
-The images below are from the [2016 Frontend Tooling Survey](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results) (4715 developers) and [2016 State of JS Survey](http://stateofjs.com/) (9307 developers)
+Generally, when should I use Parcel, Webpack or Rollup?
 
-![](../images/q15.jpg "https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results")
+Parcel — Small to medium sized projects (<15k lines of code)
 
-<cite>Image source: <a href="https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results">https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results</a></cite>
+Webpack — Large to enterprise sized projects.
 
-![](../images/task1.png "http://stateofjs.com/")
-
-<cite>Image source: <a href="http://stateofjs.com/">http://stateofjs.com/</a></cite>
-
-![](../images/tasks2.png "http://stateofjs.com/")
-
-<cite>Image source: <a href="http://stateofjs.com/">http://stateofjs.com/</a></cite>
+Rollup — For NPM packages.
 
 
 

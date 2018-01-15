@@ -15,7 +15,8 @@
 
 ###### NOTES:
 
-We are still waiting on a support in browsers for loading modules. Until then you can have a look at, ["ES Module Loader Polyfill"](https://github.com/ModuleLoader/es-module-loader) and ["JavaScript Loader Standard"](https://whatwg.github.io/loader/).
+We are still waiting on [wide support](https://caniuse.com/#feat=es6-module) in browsers for loading modules. Until then you can have a look at, ["ES Module Loader Polyfill"](https://github.com/ModuleLoader/es-module-loader), ["JavaScript Loader Standard"](https://whatwg.github.io/loader/), and [ECMAScript modules in browsers](https://jakearchibald.com/2017/es-modules-in-browsers/).
+
 
 
 

@@ -25,6 +25,7 @@
 and [JavaScript Object Explorer](https://sdras.github.io/object-explorer/). This is a handy interface pattern for learning about JavaScript data types (e.g. Objects and Arrays) and their methods. 
 * The [Chrome web browser dominates the market](http://gs.statcounter.com/browser-market-share) and people begin to fear [repeating the past](https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards).
 * [Brave](https://brave.com/) becomes the most pleasant and safest way to browser the internet.
+* [PhantomJS is no longer maintained](https://www.infoq.com/news/2017/04/Phantomjs-future-uncertain), [Headless Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) steps in.
 
 ***
 

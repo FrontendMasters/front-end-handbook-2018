@@ -19,7 +19,6 @@
 >
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)</cite>
 
-* [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) [read]
 * [A Beginner’s Guide To Progressive Web Apps](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/) [read]
 * [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) [read]
 * [Getting Started with Progressive Web Apps](https://www.pluralsight.com/courses/web-apps-progressive-getting-started) [watch][$]
@@ -27,3 +26,5 @@
 * [Intro to Progressive Web Apps by Google](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811) [watch]
 * [Native Apps are Doomed](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.rfw9hdym6) [read]
 * [Why Native Apps Really are Doomed: Native Apps are Doomed pt 2](https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9#.qjrm13yj3) [read]
+* [Your First Progressive Web App](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/) [read]
+* [Progressive Web Applications and Offline](https://frontendmasters.com/workshops/progressive-web-applications/) [watch][$]

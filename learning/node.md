@@ -10,7 +10,7 @@
 
 * [The Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node) [read]
 * [Introduction to Node.js](http://www.pluralsight.com/courses/node-intro) [watch][$]
-* [Introduction to Node.js from Evented Mind](https://www.eventedmind.com/classes/introduction-to-node-js-4c0326de) [watch][$]
+* [Introduction to Node.js from Evented Mind](https://www.eventedmind.com/classes/introduction-to-node-js-4c0326de) [watch]
 * [io.js and Node.js Next: Getting Started](http://www.pluralsight.com/courses/running-node-applications-io-js) [watch][$]
 * [Learning Node: Moving to the Server-Side](https://www.amazon.com/Learning-Node-Server-Side-Shelley-Powers/dp/1491943122/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=264ce29eb0775f4e8ccb7db892539555&camp=1789&creative=9325) [read][$]
 * [Learn You The Node.js](https://github.com/workshopper/learnyounode) [self-guided workshops]
@@ -18,6 +18,7 @@
 * [Node.js in Practice](https://www.amazon.com/Node-js-Practice-Alex-R-Young/dp/1617290939/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=e202c01e97ebad79157fab3b59723e94&camp=1789&creative=9325) [read][$]
 * [Real-time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js) [watch]
 * [Zero to Production Node.js on Amazon Web Services](https://frontendmasters.com/courses/production-node-aws/) [watch][$]
+* [Learn Node](https://learnnode.com/) [watch][$]
 
 
 

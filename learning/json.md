@@ -32,7 +32,7 @@
 
 ###### NOTES:
 
-JSON apis are evolving into things like [GraphQL](http://graphql.org/) and [Falcor](http://netflix.github.io/falcor/).
+JSON apis are being replaced by things like [GraphQL](http://graphql.org/) and [Falcor](http://netflix.github.io/falcor/).
 
 
 

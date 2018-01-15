@@ -22,6 +22,9 @@
 * [Test-Driving JavaScript Applications: Rapid, Confident, Maintainable Code](https://www.amazon.com/Test-Driving-JavaScript-Applications-Confident-Maintainable/dp/1680501747?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=c97c9c87e634569328a335cba0b0c15f&camp=1789&creative=9325)[read][$]
 * [Test-Driven JavaScript Development](https://www.amazon.com/dp/0321683919/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=f707aa5243bf6bac68bda05d1e6369e8&camp=1789&creative=9325) [read][$]
 * [The Way of the Web Tester: A Beginner's Guide to Automating Tests](https://www.amazon.com/Way-Web-Tester-Beginners-Automating/dp/1680501836/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=3e2c87950e0350d64c9d9862ed2ef524&camp=1789&creative=9325) [read][$]
+* [Testing and Modular Front-End](https://frontendmasters.com/courses/testing-modular-front-end/) [watch][$]
+* [Testing JavaScript Applications (feat. React and Redux)](https://frontendmasters.com/courses/testing-javascript/) [watch][$]
+* [Learn Javascript Unit Testing With Mocha, Chai and Sinon](https://www.udemy.com/learn-javascript-unit-testing-with-mocha-chai-and-sinon/) [watch][$]
 
 
 

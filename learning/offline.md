@@ -8,7 +8,7 @@ Offline development (aka offline first) is an area of knowledge and discussion a
 * [Everything You Need to Know to Create Offline-First Web Apps](https://github.com/pazguille/offline-first) [read]
 * [Offline First](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf) [read]
 * [offlinefirst.org](http://offlinefirst.org) [read]
-* [Your First Offline Web App](https://developers.google.com/web/fundamentals/getting-started/your-first-offline-web-app/) [read]
+* [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) [read]
 
 
 

@@ -15,6 +15,7 @@
 ##### Mastering:
 
 * [Advanced Command Line Techniques](https://code.tutsplus.com/courses/advanced-command-line-techniques) [watch][$]
+* [Introduction to Bash, VIM & Regex](https://frontendmasters.com/courses/bash-vim-regex/) [watch][$]
 
 
 

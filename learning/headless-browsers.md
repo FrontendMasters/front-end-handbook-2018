@@ -6,8 +6,10 @@
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Headless_browser)</cite>
 
-* [Automating the Web Using PhantomJS and CasperJS](https://app.pluralsight.com/library/courses/automating-web-phantom-js-casper-js/table-of-contents) [watch][$]
-* [Getting Started with PhantomJS](https://www.amazon.com/Getting-Started-PhantomJS-Aries-Beltran/dp/1782164227/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=b3838a0feeb0fad33069af34e9a5aa1e&camp=1789&creative=9325) [read][$]
-* [PhantomJS Cookbook](https://www.amazon.com/PhantomJS-Cookbook-Rob-Friesel/dp/178398192X?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=fd9f7dddf81520cd186b72918ab5df59&camp=1789&creative=9325) [read][$]
-* [PhantomJS for Web Automation](https://www.youtube.com/watch?v=OqEcn_6GBDI) [watch]
-* [Rapid PhantomJS](https://www.packtpub.com/web-development/rapid-phantomjs-video) [watch][$]
+* [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) [readme] 
+
+***
+
+###### NOTES:
+
+[PhantomJS is no longer maintained](https://www.infoq.com/news/2017/04/Phantomjs-future-uncertain), [Headless Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) steps in.

@@ -8,16 +8,17 @@
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Web_development_tools)</cite>
 
-While most browsers come equipped with web developer tools, the [Chrome developer tools](https://developers.google.com/web/tools/chrome-devtools/) are currently the most talked about and widely used tools available.
+While most browsers come equipped with web developer tools, the [Chrome developer tools](https://developers.google.com/web/tools/chrome-devtools/) are currently the most talked about and widely used.
 
 I'd suggest learning and using the [Chrome web developer tools](https://developers.google.com/web/tools/chrome-devtools/), simply because the best resources for learning web developer tools revolves around Chrome DevTools. 
 
 ##### Learn Chrome Web Developer Tools:
 
 * [Chrome Developer Tools](https://code.tutsplus.com/courses/chrome-developer-tools) [watch][$]
-* [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
+* [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/) [watch]
 * [Mastering Chrome Developer Tools](https://frontendmasters.com/courses/chrome-dev-tools/) [watch][$]
 * [Using The Chrome Developer Tools](http://www.pluralsight.com/courses/chrome-developer-tools) [watch][$]
+* [Learning Chrome Web Developer Tools](https://www.lynda.com/Chrome-tutorials/Learning-Chrome-Web-Developer-Tools/590844-2.html) [watch][$]
 
 ##### Chrome Web Developer Tools Docs:
 
