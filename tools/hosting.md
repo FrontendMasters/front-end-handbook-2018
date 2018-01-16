@@ -4,7 +4,7 @@
 
 * [AWS](https://aws.amazon.com/websites/) [$]
 * [DigitalOcean](https://digitalocean.com) [$]
-* [Heroku](https://heroku.com) [free to $]
+* [WebFaction](https://www.webfaction.com/) [$]
 
 ##### Static
 
@@ -14,6 +14,6 @@
 * [Surge](https://surge.sh/) [free to $]
 * [Forge](https://getforge.com/) [$]
 
-##### Local
+##### Local Hosting Tools:
 
 [Localname](https://localname.io)

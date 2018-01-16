@@ -3,10 +3,9 @@
 ##### Software Testing Frameworks:
 
 * [Intern](https://theintern.github.io/)
-* [Karma](http://karma-runner.github.io/1.0/index.html)
 * [Jest](http://facebook.github.io/jest/)
     * [majestic](https://majestic.debuggable.io/)
-    * [Enzyme]()
+    * [Enzyme](https://github.com/airbnb/enzyme)
 
 ##### Unit Testing:
 
@@ -65,24 +64,6 @@
 Testing frameworks typically offer more tools than just unit testing. If you are looking for JavaScript unit testing solutions look at [JavaScript Tools](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/tools/js.html).
 
 Nice [recap of testing JavaScript in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a).
-
-***
-
-###### SURVEY RESULTS:
-
-The images below are from the [2016 Frontend Tooling Survey](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results) (4715 developers) and [2016 State of JS Survey](http://stateofjs.com/) (9307 developers)
-
-![](../images/q18.jpg "https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results")
-
-<cite>Image source: <a href="https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results">https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results</a></cite>
-
-![](../images/test1.png "http://stateofjs.com/")
-
-<cite>Image source: <a href="http://stateofjs.com/">http://stateofjs.com/</a></cite>
-
-![](../images/test2.png "http://stateofjs.com/")
-
-<cite>Image source: <a href="http://stateofjs.com/">http://stateofjs.com/</a></cite>
 
 
 

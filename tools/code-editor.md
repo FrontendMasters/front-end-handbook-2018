@@ -38,14 +38,18 @@ Used to share limited amounts of immediately runnable code. Not a true code edit
 * [CodePen](http://codepen.io/) [free to $]
 * [jsbin.com](http://jsbin.com/) [free to $]
 * [jsfiddle.net](http://jsfiddle.net/)
-* [liveweave.com](http://liveweave.com/)
-* [Plunker](http://plnkr.co/)
+* [StackBliz](https://stackblitz.com/)
+* [codeSandbox](https://codesandbox.io/)
 
 ***
 
 ###### ADVICE:
 
-[^1] I recommending using [Visual Studio Code](https://code.visualstudio.com/) because of the quality of the tool and the continuous improvements made to the editor that likely won't stop or slow due to the fact that Microsoft is behind the tool.
+[^1] I recommending using [Visual Studio Code](https://code.visualstudio.com/) because of the quality of the tool and the continuous improvements made to the editor that likely won't stop or slow due to the fact that Microsoft is behind the tool. It is widely used:
+
+![](../images/vscode.png "https://stateofjs.com/2017/other-tools/p")
+
+<cite>Image source: <a href="https://stateofjs.com/2017/other-tools/p">https://stateofjs.com/2017/other-tools/p</a></cite>
 
 
 

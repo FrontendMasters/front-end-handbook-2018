@@ -7,7 +7,6 @@
 * [HTML5 Boilerplate](https://html5boilerplate.com/)
 * [HTML5 Bones](http://html5bones.com/)
 * [Mobile boilerplate](https://html5boilerplate.com/mobile/)
-* [Web Starter Kit Boilerplate & Tooling for Multi-Device Development](https://developers.google.com/web/tools/starter-kit)
 
 ##### HTML Polyfill:
 
@@ -15,7 +14,6 @@
 
 ##### Transpiling:
 
-* [HAML](http://haml.info/)
 * [Pug](https://pugjs.org/api/getting-started.html)
 * [Markdown](http://daringfireball.net/projects/markdown/)
 
@@ -25,7 +23,6 @@
 * [Elements](https://html.spec.whatwg.org/multipage/indices.html#elements-3)
 * [HTML Arrows](http://htmlarrows.com/)
 * [HTML Entity Lookup](http://entity-lookup.leftlogic.com/)
-* [HTML Interfaces Browser Support ](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
 * [htmlreference.io](http://htmlreference.io/)
 * [HEAD - A free guide to <head> elements](https://gethead.info/)
 

@@ -1,6 +1,6 @@
 # Browser Tools
 
-##### JS Browser Coding Utilities:
+##### JS Utilities to fix Browsers:
 
 * [History.js](https://github.com/browserstate/history.js)
 * [html2canvas](https://github.com/niklasvh/html2canvas)
@@ -32,7 +32,7 @@
 * [Safari Web Inspector](https://developer.apple.com/safari/tools/)
 * [Vorlon.js](http://vorlonjs.com/)
 
-##### Browser Coding Tools to Determine If X Browser Supports X:
+##### JavaScript Utilities to Determine If X Browser Supports X:
 
 * [Feature.js](http://featurejs.com/)
 * [Modernizr](https://modernizr.com/)
@@ -52,6 +52,7 @@
 * [Browserling](https://www.browserling.com/) [free to $]
 * [BrowserStack](https://www.browserstack.com) [$]
 * [CrossBrowserTesting.com](http://crossbrowsertesting.com/) [$]
+* [Ghost Inspector](https://ghostinspector.com) [free to $]
 * [Nightcloud.io](http://nightcloud.io/)
 * [Sauce Labs](https://saucelabs.com/) [$]
 
@@ -74,6 +75,10 @@ Used for functional testing and monkey testing.
 ##### Browser Hacks:
 
 * [browserhacks.com](http://browserhacks.com/)
+
+##### Browser Syncing Tools:
+
+* [Browsersync](http://www.browsersync.io/)
 
 ##### Browser List:
 

@@ -1,5 +1,7 @@
 # Animation Tools
 
+##### CSS and JavaScript Utilities:
+
 * [Animate Plus](https://github.com/bendc/animateplus)
 * [Animate](https://github.com/daneden/animate.css)
 * [Anime.js](http://animejs.com/)

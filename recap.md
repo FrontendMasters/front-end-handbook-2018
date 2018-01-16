@@ -13,7 +13,7 @@
 * The [great](https://medium.com/@jerrylowm/the-death-of-front-end-developers-803a95e0f411) divide between a front-end HTML & CSS developer v.s. [front-end application developer is realized/verbalized](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06).
 * This year seemed fuller than most of solutions trying to contend with the mainstream javascript app tools (i.e. [React, Angular, and Vue etc...](https://stateofjs.com/2017/front-end/results)) Let me list them for you. [Moon](http://moonjs.ga/docs/overview.html), [Marko](https://markojs.com/), [Hyperapp](https://github.com/hyperapp/hyperapp), [Quasar Framework](http://quasar-framework.org/), [POI](https://poi.js.org), [frint](https://frint.js.org/), [BunnyJS](https://bunnyjs.com/), [jsblocks](http://jsblocks.com/), [Sapper](https://sapper.svelte.technology/), [Stimulus](https://github.com/stimulusjs/stimulus), [Choo](https://github.com/choojs/choo), 
 * This was the year that jsbin and jsfiddle evolved to things like [StackBliz](https://stackblitz.com/) and [codeSandbox](https://codesandbox.io/). Making it dead simple to share a working React app.
-* React continues to be flattered by things like [preact](https://preactjs.com/), [inferno](https://infernojs.org/), [nerv](https://github.com/NervJS/nerv) and [rax](https://github.com/alibaba/rax).
+* React continues to be flattered by things like [preact](https://preactjs.com/), [inferno](https://infernojs.org/), [nerv](https://github.com/NervJS/nerv), [dva](https://github.com/dvajs/dva), and [rax](https://github.com/alibaba/rax).
 * Cheatsheets got organized with [devhints.io](https://devhints.io/).
 * We figured out that the correct pattern for an app boilerplate/cli tool is something very opinionated like [React Create App](https://github.com/facebookincubator/create-react-app) with the ability to [escape](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#npm-run-eject) from it when needed.
 * Most developers have found that the combination of a really good code editor and eslint and [prettier](https://github.com/prettier/prettier) plugins make writing code faster and easier.
@@ -23,9 +23,10 @@
 * CSS [revolutions/revolts](http://ryanogles.by/css/javascript/2017/05/25/the-state-of-css.html) are under way.
 * JavaScript explorer tools have arrived, [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
 and [JavaScript Object Explorer](https://sdras.github.io/object-explorer/). This is a handy interface pattern for learning about JavaScript data types (e.g. Objects and Arrays) and their methods. 
-* The [Chrome web browser dominates the market](http://gs.statcounter.com/browser-market-share) and people begin to fear [repeating the past](https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards).
+* The [Chrome web browser dominates the market](http://gs.statcounter.com/browser-market-share) and people begin to fear the past might be [repeating itself](https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards).
 * [Brave](https://brave.com/) becomes the most pleasant and safest way to browser the internet.
-* [PhantomJS is no longer maintained](https://www.infoq.com/news/2017/04/Phantomjs-future-uncertain), [Headless Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) steps in.
+* [PhantomJS is no longer maintained](https://www.infoq.com/news/2017/04/Phantomjs-future-uncertain), [Headless Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) and [Puppeteer](https://github.com/GoogleChrome/puppeteer) step in.
+* [Prettier](https://prettier.io/) comes from left field and becomes a stable for development.
 
 ***
 
@@ -70,3 +71,4 @@ and [JavaScript Object Explorer](https://sdras.github.io/object-explorer/). This
 * [Firebug officially dead](https://github.com/firebug/firebug).
 * CSS [20 years young](https://www.w3.org/Style/CSS20/) in 2016.
 * [Immutability](https://facebook.github.io/immutable-js/) concepts run rapid.
+

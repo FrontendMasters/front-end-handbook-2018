@@ -5,6 +5,12 @@
 * [PouchDB](http://pouchdb.com/)
 * [upup](https://www.talater.com/upup/)
 
+***
+
+###### NOTES:
+
+For more tools look [here](https://github.com/pazguille/offline-first#tools).
+
 
 
 

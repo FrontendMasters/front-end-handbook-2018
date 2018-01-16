@@ -1,8 +1,5 @@
-# General Front-End Development Tools
+# GUI Development/Build Tools
 
-##### Development Tools:
-
-* [Browsersync](http://www.browsersync.io/)
 * [CodeKit](http://incident57.com/codekit/)
 * [Prepros](https://prepros.io/)
 

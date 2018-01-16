@@ -9,6 +9,7 @@ Offline development (aka offline first) is an area of knowledge and discussion a
 * [Offline First](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf) [read]
 * [offlinefirst.org](http://offlinefirst.org) [read]
 * [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) [read]
+* [Offline Quickstart](https://developers.google.com/web/ilt/pwa/offline-quickstart)[read]
 
 
 
