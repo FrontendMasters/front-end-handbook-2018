@@ -65,6 +65,7 @@
 
 ##### Standards/Specifications:
 
+* [How to Read the ECMAScript Specification](https://timothygu.me/es-howto/)
 * [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
 * [ECMAScript® 2016 Language Specification](https://www.ecma-international.org/ecma-262/7.0/index.html)
 * [ECMAScript® 2017 Language Specification](http://www.ecma-international.org/ecma-262/8.0/index.html)

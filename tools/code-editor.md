@@ -21,7 +21,6 @@ However, I do strongly believe, minimally, a code editor should have the followi
 ##### Code Editors: [^1]
 
 * [Atom](https://atom.io/)
-* [Brackets](http://brackets.io/)
 * [Sublime Text](http://www.sublimetext.com/) [$]
 * [WebStorm](https://www.jetbrains.com/webstorm/whatsnew/) [$]
 * [Visual Studio Code](https://code.visualstudio.com/)
@@ -33,7 +32,7 @@ However, I do strongly believe, minimally, a code editor should have the followi
 
 ##### Shareable & Runnable Code Editors:
 
-Used to share limited amounts of immediately runnable code. Not a true code editor but a tool that can be used to small amounts of immediately runnable code in a web browser.
+Used to share limited amounts of immediately runnable code. Not a true code editor but a tool that can be used to share small amounts of immediately runnable code in a web browser.
 
 * [CodePen](http://codepen.io/) [free to $]
 * [jsbin.com](http://jsbin.com/) [free to $]

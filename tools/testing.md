@@ -36,6 +36,7 @@
 ##### Integration/Functional Testing:
 
 * [Cypress](https://www.cypress.io/)
+    [cypress-react-unit-test](https://github.com/bahmutov/cypress-react-unit-test)
 * [Nightwatch](http://nightwatchjs.org/)
 
 ##### Browser Automation:

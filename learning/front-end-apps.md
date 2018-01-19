@@ -7,6 +7,7 @@
 * [Grab Front End Guide](https://github.com/grab/front-end-guide) [read]
 * [A set of best practices for JavaScript projects](https://github.com/wearehive/project-guidelines)
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
 
 ##### Deprecated Learning Materials:
 

@@ -4,7 +4,7 @@
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Version_control)</cite>
 
-The current modern solution for version control is [Git](https://git-scm.com/). Learn it!
+The most common solution used for [version control](https://en.wikipedia.org/wiki/Version_control) today is  [Git](https://git-scm.com/). Learn it!
 
 ##### General Learning:
 

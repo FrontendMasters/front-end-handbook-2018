@@ -58,6 +58,7 @@
 * [CSS Tricks Almanac](https://css-tricks.com/almanac/)
 * [cssvalues.com](http://cssvalues.com/)
 * [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet/)
 
 ##### Linting/Hinting:
 
@@ -112,6 +113,7 @@
 * [Frontify](https://frontify.com/) [$]
 * [SC5 STYLE GUIDE GENERATOR](http://styleguide.sc5.io/)
 * [styleguide-generators](https://github.com/davidhund/styleguide-generators)
+* [Catalog](https://docs.catalog.style/)
 
 ##### Trending CSS Repositories on GitHub This Month:
 
