@@ -60,7 +60,7 @@ These solutions use a JS engine at runtime to interpret JS and bridge that to na
 
 ###### ADVICE:
 
-[^1] If you are new to front-end/JavaScript application development I'd start with [Vue.js](http://vuejs.org/). Then I'd work my way to [React](http://facebook.github.io/react/). Then I'd look at [Angular 2](https://angular.io/), [Ember](http://emberjs.com/), or [Aurelia](http://aurelia.io/).
+[^1] If you are new to front-end/JavaScript application development I'd start with [Vue.js](http://vuejs.org/). Then I'd work my way to [React](http://facebook.github.io/react/). Then I'd look at [Angular 2+](https://angular.io/), [Ember](http://emberjs.com/), or [Aurelia](http://aurelia.io/). 
 
 If you are building a simple website that has minimal interactions with data (i.e. mostly a static content web site), you should avoid a front-end framework. A lot of work can be done with a task runner like [Gulp and jQuery](https://github.com/vigetlabs/blendid), while avoiding the unnecessary complexity of learning and using an app framework tool.
 

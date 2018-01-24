@@ -38,4 +38,4 @@ and [JavaScript Object Explorer](https://sdras.github.io/object-explorer/). This
 * We have only begun to [explore](https://css-in-js-playground.com/?theme=light) the ideal CSS solution for a tree of UI components.
 * [MVC frameworks are on the outs](https://codeburst.io/javascript-trends-in-2018-3fb0077259).
 * Older server centric [application patterns](https://unpoly.com) show [up again](https://github.com/turbolinks/turbolinks) but [with](https://goiabada.blog/can-you-build-a-single-page-application-without-a-front-end-framework-6799cee03750) a [new](http://triskweline.de/unpoly-rugb/#/41) [spin](https://github.com/stimulusjs/stimulus). The pendal might be swinging away fromSPA applications.
-* Constructing and displaying React components outside of your applications is made popular by tools like [Bluekit](http://bluekit.blueberry.io/), [Storybook](https://storybook.js.org/), and [bit](https://bitsrc.io/).
+* Developing and displaying React components outside of your applications is made popular by tools like [Bluekit](http://bluekit.blueberry.io/), [Storybook](https://storybook.js.org/), and [bit](https://bitsrc.io/).

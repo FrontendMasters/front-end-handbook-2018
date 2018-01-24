@@ -10,6 +10,7 @@
 * [GreenSock-JS](http://greensock.com/)
 * [Kute.js](http://thednp.github.io/kute.js/)
 * [Magic](https://github.com/miniMAC/magic)
+* [Micron.js](https://webkul.github.io/micron/)
 * [Motion](http://mojs.io/)
 * [TweenJS](https://github.com/CreateJS/TweenJS)
 * [Popmotion](https://popmotion.io)
