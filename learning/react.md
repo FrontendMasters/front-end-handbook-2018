@@ -27,6 +27,10 @@
 
 Once you have a good handle on React move on to learning a more robust state management solution like [MobX](https://mobx.js.org/). If you are an experienced developer with Functional Programming knowledge look at [Redux](https://redux.js.org/). If you need help understanding the role of state management beyond React's `setState` watch, "[Advanced State Management in React (feat. Redux and MobX)](https://frontendmasters.com/courses/react-state/)".
 
+Note below the trends in the React Ecosystem (from npm registry) as you move past React and learn tools that work alongside React.
+
+![](../images/reacteco.png "https://www.npmjs.com/npm/the-state-of-javascript-frameworks-2017-part-2-the-react-ecosystem")
+
 
 
 

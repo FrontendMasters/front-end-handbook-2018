@@ -7,6 +7,7 @@
 * [Firebase](https://www.firebase.com/index.html) [free to $]
 * [Pusher](https://pusher.com/) [free to $]
 * [restdb.io](https://restdb.io/) [free to $]
+* [MongoDB Stitch](https://www.mongodb.com/cloud/stitch)
 
 ##### Data/back-end
 
