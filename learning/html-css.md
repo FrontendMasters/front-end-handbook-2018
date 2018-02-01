@@ -96,6 +96,12 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [CSS Weekly](http://css-weekly.com/archives/)
 * [Frontend Focus](http://frontendfocus.co/)
 
+***
+
+###### NOTES:
+
+Writing [CSS in JS](https://hackernoon.com/all-you-need-to-know-about-css-in-js-984a72d48ebc) was hot this year. Make sure you are aware of the use case. And why some think it is [overused](https://medium.com/@gajus/stop-using-css-in-javascript-for-web-development-fa32fb873dcc).
+
 
 
 

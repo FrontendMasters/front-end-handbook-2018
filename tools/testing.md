@@ -6,6 +6,7 @@
 * [Jest](http://facebook.github.io/jest/)
     * [majestic](https://majestic.debuggable.io/)
     * [Enzyme](https://github.com/airbnb/enzyme)
+    * [Cheerio](https://github.com/cheeriojs/cheerio)
 
 ##### Unit Testing:
 
@@ -38,6 +39,7 @@
 * [Cypress](https://www.cypress.io/)
     [cypress-react-unit-test](https://github.com/bahmutov/cypress-react-unit-test)
 * [Nightwatch](http://nightwatchjs.org/)
+* [WebDriver.io](http://webdriver.io/)
 
 ##### Browser Automation:
 

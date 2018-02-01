@@ -2,7 +2,7 @@
 
 The table below contains instructor led, paid, front-end courses, programs, schools, and bootcamps.
 
-However, if you can't afford a directed education (can be very expensive), a self directed education using screencasts, books, and articles is a viable alternative to learn front-end development for the self-driven individual.
+However, if you can't afford a directed education (can be very expensive), a [self directed](../learning/self-direct-learning.html) education using screencasts, books, and articles is a viable alternative to learn front-end development for the self-driven individual.
 
 <table>
     <thead>
