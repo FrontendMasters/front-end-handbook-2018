@@ -14,7 +14,7 @@ A front-end developer architects and develops websites and applications using we
 
 <cite>Image source: <a href="https://www.upwork.com/hiring/development/front-end-developer/">https://www.upwork.com/hiring/development/front-end-developer/</a></cite>
 
-Typically, a person enters into the field of front-end development by learning to develop HTML, CSS, and JavaScript code, which runs in a [web browser](https://en.wikipedia.org/wiki/Web_browser) (most common), [headless browser](https://en.wikipedia.org/wiki/Headless_browser), [WebView](http://developer.telerik.com/featured/what-is-a-webview/), or as compilation input for a native runtime environment. These four run times scenarios are explained below.
+Typically, a person enters into the field of front-end development by learning to develop HTML, CSS, and JavaScript which commonly runs in  [web browser](https://en.wikipedia.org/wiki/Web_browser) but can also run in a [headless browser](https://en.wikipedia.org/wiki/Headless_browser), [WebView](http://developer.telerik.com/featured/what-is-a-webview/), or as compilation input for a native runtime environment. These four run times scenarios are explained below.
 
 ##### Web Browsers (most common)
 
@@ -34,9 +34,10 @@ Headless browsers are a web browser **without** a graphical user interface that 
 
 The most common headless browsers are:
 
-* [PhantomJS](http://phantomjs.org/)
-* [slimerjs](http://slimerjs.org/)
 * [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
+* [Zombie](https://github.com/assaf/zombie)
+* [slimerjs](http://slimerjs.org/)
+
 
 ##### Webviews
 
@@ -54,8 +55,8 @@ Eventually, what is learned from web browser development can be used by front-en
 
 Some examples of these environments are: 
 
+* [Flutter](https://flutter.io/)
 * [React Native](https://facebook.github.io/react-native/)
-* [NativeScript](https://www.nativescript.org/)
 
 * * *
 

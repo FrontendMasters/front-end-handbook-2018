@@ -6,19 +6,19 @@
 
 The following core web technologies are employed by front-end developers (consider learning them in this order):
 
-1. Uniform Resource Locators (aka URLs)
-2. Hypertext Transfer Protocol (aka HTTP)
-3. Hyper Text Markup Language (aka HTML)
-4. Cascading Style Sheets (aka CSS)
-6. JavaScript Programming Language (aka ECMAScript 262)
-7. JavaScript Object Notation (aka JSON)
-8. Document Object Model (aka DOM)
-9. Web APIs (aka HTML5 and friends or Browser APIs)
-10. Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA)
+1. Hyper Text Markup Language (aka HTML)
+2. Cascading Style Sheets (aka CSS)
+3. Uniform Resource Locators (aka URLs)
+4. Hypertext Transfer Protocol (aka HTTP)
+5. JavaScript Programming Language (aka ECMAScript 262)
+6. JavaScript Object Notation (aka JSON)
+7. Document Object Model (aka DOM)
+8. Web APIs (aka HTML5 and friends or Browser APIs)
+9. Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA)
 
 For a comprehensive list of all web related specifications have a look at [platform.html5.org](https://platform.html5.org/).
 
-The ten technologies just mentioned are defined below along with a link to the relevant documentation and specification for each technology.
+The nine technologies just mentioned are defined below along with a link to the relevant documentation and specification for each technology.
 
 #### Hyper Text Markup Language (aka HTML)
 
@@ -48,6 +48,28 @@ Most relevant specifications / documentation:
 * [Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification](https://drafts.csswg.org/css2/)
 * [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [Selectors Level 3](http://www.w3.org/TR/css3-selectors/)
+
+#### Hypertext Transfer Protocol (aka HTTP)
+
+> The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
+
+><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)</cite>
+
+Most relevant specifications:
+
+* [Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
+* [HTTP/2](http://httpwg.org/specs/rfc7540.html)
+
+#### Uniform Resource Locators (aka URL)
+
+> A uniform resource locator (URL) (also called a web address) is a reference to a resource that specifies the location of the resource on a computer network and a mechanism for retrieving it. A URL is a specific type of uniform resource identifier (URI), although many people use the two terms interchangeably. A URL implies the means to access an indicated resource, which is not true of every URI. URLs occur most commonly to reference web pages (http), but are also used for file transfer (ftp), email (mailto), database access (JDBC), and many other applications.
+
+><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)</cite>
+
+Most relevant specifications:
+
+* [Uniform Resource Locators (URL)](http://www.w3.org/Addressing/URL/url-spec.txt)
+* [URL Living Standard](https://url.spec.whatwg.org/)
 
 #### Document Object Model (aka DOM)
 
@@ -80,28 +102,6 @@ Most relevant specifications / documentation:
 Most relevant documentation:
 
 * [Web API Interfaces](https://developer.mozilla.org/en-US/docs/Web/API)
-
-#### Hypertext Transfer Protocol (aka HTTP)
-
-> The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
-
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)</cite>
-
-Most relevant specifications:
-
-* [Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
-* [HTTP/2](http://httpwg.org/specs/rfc7540.html)
-
-#### Uniform Resource Locators (aka URL)
-
-> A uniform resource locator (URL) (also called a web address) is a reference to a resource that specifies the location of the resource on a computer network and a mechanism for retrieving it. A URL is a specific type of uniform resource identifier (URI), although many people use the two terms interchangeably. A URL implies the means to access an indicated resource, which is not true of every URI. URLs occur most commonly to reference web pages (http), but are also used for file transfer (ftp), email (mailto), database access (JDBC), and many other applications.
-
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)</cite>
-
-Most relevant specifications:
-
-* [Uniform Resource Locators (URL)](http://www.w3.org/Addressing/URL/url-spec.txt)
-* [URL Living Standard](https://url.spec.whatwg.org/)
 
 #### JavaScript Object Notation (aka JSON)
 

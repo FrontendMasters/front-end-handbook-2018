@@ -19,7 +19,7 @@ These operating systems typically run on one or more of the following devices:
 * Tablet
 * TV
 * Watch
-* Things (i.e., anything you can imagine, car, refrigerator, lights, thermostat, etc.)
+* [Things](https://en.wikipedia.org/wiki/Internet_of_things) (i.e., anything you can imagine, car, refrigerator, lights, thermostat, etc.)
 
 ![](../images/growth-iot.jpg "https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/")
 

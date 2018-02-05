@@ -10,8 +10,8 @@
 
 * [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M) [watch]
 * [How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) [read]
-* [How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-(http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) - Stanford Paper [read]
+* How does the Internet work? [https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work) and 
+[http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) [read]
 * [How the Internet Works](https://www.khanacademy.org/partner-content/code-org/internet-works) [watch]
 * [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc) [watch]
 * [How the Web Works](https://www.eventedmind.com/classes/how-the-web-works-7f40254c) [watch]
