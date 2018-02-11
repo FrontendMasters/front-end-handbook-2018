@@ -18,16 +18,4 @@
 * [Preparing for a Front-End Web Development Interview in 2017](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
 * [Interview Cake](https://www.interviewcake.com/) [$]
 * [Cracking the front-end interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237)
-
-
-
-
-
-
- 
-
-
-
-
-
-
+* [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
