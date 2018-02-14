@@ -44,6 +44,6 @@ and [JavaScript Object Explorer](https://sdras.github.io/object-explorer/). This
 * Facebook continues to [take charge in the development space](https://code.facebook.com/projects/) with forthcoming tools like [prepack.io](https://prepack.io/).
 * As expected [ECMA-262 edition 8 is released](https://www.ecma-international.org/publications/standards/Ecma-262.htm).
 * [React Router](https://reacttraining.com/react-router/) finally stabilizes.
-* All modern browsers pretty much now [support ECMAScript 2016](http://kangax.github.io/compat-table/es6/) (aka ES6).
+* All modern browsers pretty much now [support ECMAScript 2015](http://kangax.github.io/compat-table/es6/) (aka ES6).
 * [Async JavaScript functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) start getting some serious attention and usage. Mostly because all modern browsers [now support Async functions](https://caniuse.com/#search=async%20fun).
 * Mobile development, [still](https://flutter.io/) [too](https://facebook.github.io/react-native/) [hard](https://www.nativescript.org/). A strong rebellion advocating the [web platform](https://blog.mozilla.org/firefox/progressive-web-apps-whats-big-deal/) as a solution to the pain [gained momentum](https://joreteg.com/blog/betting-on-the-web) this year.
