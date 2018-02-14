@@ -19,7 +19,7 @@ and [JavaScript Object Explorer](https://sdras.github.io/object-explorer/). This
 * The [Chrome web browser dominates the market](http://gs.statcounter.com/browser-market-share) and people begin to fear the past might be [repeating itself](https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards).
 * [Brave](https://brave.com/) becomes the most pleasant and safest way to browser the internet.
 * [PhantomJS is no longer maintained](https://www.infoq.com/news/2017/04/Phantomjs-future-uncertain), [Headless Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) and [Puppeteer](https://github.com/GoogleChrome/puppeteer) step in.
-* [Prettier](https://prettier.io/) comes from left field and becomes a stable for development.
+* [Prettier](https://prettier.io/) comes from left field and becomes a staple for development.
 * A whole lot of developers adopt static type checking for mostly subjective reasons or band wagon emotions. Some sell out completely to [Typescript](https://github.com/Microsoft/TypeScript) and the Microsoft way of doing things while others take on a slower approach with [Flow](https://github.com/facebook/flow). One thing is for sure, most developers don't need types, they are simply complicating already complex problems and solutions. Like most things, most of this trend is subjective dogma not objective value.
 * [Static site generators](https://www.staticgen.com/) & [API CMS tools aka Headless CMS's](https://en.wikipedia.org/wiki/Headless_CMS) are now on most developers radar.
 * Web components still lurking and wait for significant traction by developers that might never come to be.
