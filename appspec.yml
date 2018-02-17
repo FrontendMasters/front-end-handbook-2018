@@ -1,0 +1,46 @@
+# This is an appspec.yml template file for use with AWS CodeDeploy.
+# The lines in this template starting with the hashtag symbol are
+#   instructional comments and can be safely left in the file or
+#   ignored.
+# For help completing this file, see the "AppSpec File Reference" in the
+#   "AWS CodeDeploy User Guide" at
+#   http://docs.aws.amazon.com/codedeploy/latest/userguide/app-spec-ref.html
+version: 0.0
+# Specify "os: linux" if this revision targets Amazon Linux,
+#   Red Hat Enterprise Linux (RHEL), or Ubuntu Server
+#   instances.
+# Specify "os: windows" if this revision targets Windows Server instances.
+# (You cannot specify both "os: linux" and "os: windows".)
+os: linux
+# os: windows
+# During the Install deployment lifecycle event (which occurs between the
+#   BeforeInstall and AfterInstall events), copy the specified files
+#   in "source" starting from the root of the revision's file bundle
+#   to "destination" on the Amazon EC2 instance.
+# Specify multiple "source" and "destination" pairs if you want to copy
+#   from multiple sources or to multiple destinations.
+# If you are not copying any files to the Amazon EC2 instance, then remove the
+#   "files" section altogether. A blank or incomplete "files" section
+#   may cause associated deployments to fail.
+files:
+  - source: /_book
+    destination: /var/www/frontendhandbook.com/2018
+
+permissions:
+  - object: /var/www/frontendhandbook.com/2018
+    owner: root
+    group: root
+    mode: 755
+
+# If you are not running any commands on the Amazon EC2 instance, then remove
+#   the "hooks" section altogether. A blank or incomplete "hooks" section
+#   may cause associated deployments to fail.
+# hooks:
+
+# During the ApplicationInstall deployment lifecycle event, run the commands
+#   in the script specified in "location".
+#  ApplicationStart:
+#    - location: /srv/fem-wp-site/install.sh
+#      timeout: 300
+#      runas: root
+#
