@@ -1,0 +1,38 @@
+version: 0.1
+
+meta : |
+  AWS CodeBuild buildspec.yml
+  The dependencies are downloaded and the binary built outside of the GOPATH.
+  This requies special consideration is necessary. GOROOT is not set by default.
+  GOPATH is set to /go. GOBIN is necessary for the prebuild go get phase.
+  The repo source must be installed to the GOPATH.
+
+environment_variables:
+  plaintext:
+    PHASE: "build"
+    PROJECT: "feh-2018"
+    AWS_DEFAULT_REGION: "us-west-2"
+
+phases:
+  pre_build:
+    commands:
+      - apt-get update -y
+      - curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+      - apt-get install -y nodejs
+      - npm install -g gitbook-cli --save
+  build:
+    commands:
+      - echo Build started on `date`
+      - gitbook install
+      - gitbook build
+
+  post_build:
+    commands:
+      - echo build completed started on `date`
+
+artifacts:
+  type: zip
+  files:
+    - _book/**/*
+    - appspec.yml
+  discard-paths: no
