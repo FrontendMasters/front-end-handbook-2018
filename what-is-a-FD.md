@@ -8,7 +8,7 @@
 
 ##### HTML, CSS, & JavaScript:
 
-A front-end developer architects and develops websites and applications using web technologies (i.e., HTML, CSS, DOM, and JavaScript), which run on the [Open Web Platform](https://en.wikipedia.org/wiki/Open_Web_Platform) or act as compilation input for non-web platform environments (i.e., [React Native](https://facebook.github.io/react-native/)).
+A front-end developer architects and develops websites and applications using web technologies (i.e., [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)), which run on the [Open Web Platform](https://en.wikipedia.org/wiki/Open_Web_Platform) or act as compilation input for non-web platform environments (i.e., [React Native](https://facebook.github.io/react-native/)).
 
 ![](images/what-is-front-end-dev.png "https://www.upwork.com/hiring/development/front-end-developer/")
 
