@@ -24,6 +24,7 @@
 ##### Online JSON Mocking API Tools:
 
 * [FillText.com](http://www.filltext.com/)
+* [FakeJSON](https://fakejson.com) [free to $]
 * [Jam API](https://github.com/dinubs/jam-api)
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
 * [jsonbin.io](https://jsonbin.io)
