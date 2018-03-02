@@ -3,7 +3,7 @@
 ##### Online Editors:
 
 * [JSONmate](http://jsonmate.com/)
-* [json.browse()](https://jamstack.org/)
+* [JSON Editor Online](https://jsoneditoronline.org/)
 
 ##### Formatter & Validator:
 
