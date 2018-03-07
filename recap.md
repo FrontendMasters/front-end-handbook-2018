@@ -19,7 +19,7 @@ and [JavaScript Object Explorer](https://sdras.github.io/object-explorer/). This
 * The [Chrome web browser dominates the market](http://gs.statcounter.com/browser-market-share) and people begin to fear the past might be [repeating itself](https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards).
 * [Brave](https://brave.com/) becomes the most pleasant and safest way to browser the internet.
 * [PhantomJS is no longer maintained](https://www.infoq.com/news/2017/04/Phantomjs-future-uncertain), [Headless Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) and [Puppeteer](https://github.com/GoogleChrome/puppeteer) step in.
-* [Prettier](https://prettier.io/) comes from left field and becomes a stable for development.
+* [Prettier](https://prettier.io/) comes from left field and becomes a staple for development.
 * A whole lot of developers adopt static type checking for mostly subjective reasons or band wagon emotions. Some sell out completely to [Typescript](https://github.com/Microsoft/TypeScript) and the Microsoft way of doing things while others take on a slower approach with [Flow](https://github.com/facebook/flow). One thing is for sure, most developers don't need types, they are simply complicating already complex problems and solutions. Like most things, most of this trend is subjective dogma not objective value.
 * [Static site generators](https://www.staticgen.com/) & [API CMS tools aka Headless CMS's](https://en.wikipedia.org/wiki/Headless_CMS) are now on most developers radar.
 * Web components still lurking and wait for significant traction by developers that might never come to be.
@@ -44,6 +44,6 @@ and [JavaScript Object Explorer](https://sdras.github.io/object-explorer/). This
 * Facebook continues to [take charge in the development space](https://code.facebook.com/projects/) with forthcoming tools like [prepack.io](https://prepack.io/).
 * As expected [ECMA-262 edition 8 is released](https://www.ecma-international.org/publications/standards/Ecma-262.htm).
 * [React Router](https://reacttraining.com/react-router/) finally stabilizes.
-* All modern browsers pretty much now [support ECMAScript 2016](http://kangax.github.io/compat-table/es6/) (aka ES6).
+* All modern browsers pretty much now [support ECMAScript 2015](http://kangax.github.io/compat-table/es6/) (aka ES6).
 * [Async JavaScript functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) start getting some serious attention and usage. Mostly because all modern browsers [now support Async functions](https://caniuse.com/#search=async%20fun).
 * Mobile development, [still](https://flutter.io/) [too](https://facebook.github.io/react-native/) [hard](https://www.nativescript.org/). A strong rebellion advocating the [web platform](https://blog.mozilla.org/firefox/progressive-web-apps-whats-big-deal/) as a solution to the pain [gained momentum](https://joreteg.com/blog/betting-on-the-web) this year.
