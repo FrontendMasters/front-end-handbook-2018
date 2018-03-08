@@ -27,7 +27,8 @@ However, I do strongly believe, minimally, a code editor should have the followi
 
 ##### Online Code Editors:
 
-* [Cloud9](https://c9.io) [free to $]
+* [PaizaCloud](https://paiza.cloud) [free to $]
+* [AWS Cloud9](https://aws.amazon.com/cloud9/) [$]
 * [Codeanywhere](https://codeanywhere.com) [free to $]
 
 ##### Shareable & Runnable Code Editors:
