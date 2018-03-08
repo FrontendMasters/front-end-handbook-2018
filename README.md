@@ -1,7 +1,8 @@
 # Front-End Developer Handbook 2018
 
-Written by [Cody Lindley](http://codylindley.com/)
-Sponsored by [Frontend Masters](https://frontendmasters.com/), advancing your skills with in-depth, modern front-end engineering courses
+### Written by [Cody Lindley](http://codylindley.com/)
+
+*Sponsored by [Frontend Masters](https://frontendmasters.com/), advancing your skills with in-depth, modern front-end engineering courses*
 
 ![](cover.jpg)
 
