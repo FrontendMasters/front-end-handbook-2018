@@ -27,7 +27,8 @@ However, I do strongly believe, minimally, a code editor should have the followi
 
 ##### Online Code Editors:
 
-* [Cloud9](https://c9.io) [free to $]
+* [PaizaCloud](https://paiza.cloud) [free to $]
+* [AWS Cloud9](https://aws.amazon.com/cloud9/) [$]
 * [Codeanywhere](https://codeanywhere.com) [free to $]
 
 ##### Shareable & Runnable Code Editors:
@@ -46,9 +47,9 @@ Used to share limited amounts of immediately runnable code. Not a true code edit
 
 [^1] I recommending using [Visual Studio Code](https://code.visualstudio.com/) because of the quality of the tool and the continuous improvements made to the editor that likely won't stop or slow due to the fact that Microsoft is behind the tool. It is widely used:
 
-![](../images/vscode.png "https://stateofjs.com/2017/other-tools/p")
+![](../images/vscode.png "https://stateofjs.com/2017/other-tools/")
 
-<cite>Image source: <a href="https://stateofjs.com/2017/other-tools/p">https://stateofjs.com/2017/other-tools/p</a></cite>
+<cite>Image source: <a href="https://stateofjs.com/2017/other-tools/p">https://stateofjs.com/2017/other-tools/</a></cite>
 
 
 
