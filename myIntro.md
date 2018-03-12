@@ -2,7 +2,7 @@
 
 Written by [Cody Lindley](http://codylindley.com/) sponsored by — [Frontend Masters](https://frontendmasters.com/)
 
-![](cover.jpg)
+![Front End Handbook 2018 Cover](https://frontendmasters.com/books/front-end-handbook/2018/cover.jpg)
 
 This is a guide that anyone could use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2018.
 
@@ -32,7 +32,7 @@ Part three briefly explains and identifies tools of the trade.
  
 **Download a .pdf, .epub, or .mobi file from**:
 
-* [https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/](https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/)
+* [https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details](https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
 
 **Contribute content, suggestions, and fixes on github**:
 
