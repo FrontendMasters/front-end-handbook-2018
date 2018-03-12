@@ -2,12 +2,18 @@
     "structure": {
         "readme": "myIntro.md"
     },
-    "plugins": ["scripts"],
+    "plugins": [
+        "scripts",
+        "canonical-link@git+https://github.com/FrontendMasters/gitbook-plugin-canonical-link"
+    ],
     "pluginsConfig": {
         "scripts": {
             "files": [
                 "./gtm-analytics.js"
             ]
+        },
+        "canonical-link": {
+            "baseURL": "https://frontendmasters.com/books/front-end-handbook/2018"
         }
     }
 }
