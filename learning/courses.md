@@ -12,6 +12,7 @@ However, if you can't afford a directed education (can be very expensive), a [se
             <th data-field="year">price</th>
             <th data-field="onsite">on site</th>
             <th data-field="remote">remote</th>
+            <th data-field="duration">duration</th>
         </tr>
     </thead>
     <tbody>
@@ -21,6 +22,7 @@ However, if you can't afford a directed education (can be very expensive), a [se
             <td>3,000</td>
             <td>Baltimore, MD</td>
             <td></td>
+            <td>10 weeks</td>
         </tr>
         <tr>
             <td>BLOC</td>
@@ -28,6 +30,7 @@ However, if you can't afford a directed education (can be very expensive), a [se
             <td>4,999</td>
             <td></td>
             <td>yes</td>
+            <td>16 weeks @ 25hr/wk or 32 weeks @ 10hr/wk</td>
         </tr>
         <tr>
             <td>General Assembly</td>
@@ -35,6 +38,7 @@ However, if you can't afford a directed education (can be very expensive), a [se
             <td>3,500</td>
             <td>multiple locations</td>
             <td></td>
+            <td>3 hrs/day 2 days/wk for 8 weeks</td>
         </tr>
         <tr>
             <td>HackerYou</td>
@@ -42,6 +46,7 @@ However, if you can't afford a directed education (can be very expensive), a [se
             <td>7,000 - 7,910</td>
             <td>Toronto, Canada</td>
             <td></td>
+            <td>9 weeks</td>
         </tr>
         <tr>
             <td>The New York Code + Design Academy</td>
@@ -49,6 +54,7 @@ However, if you can't afford a directed education (can be very expensive), a [se
             <td>2,000</td>
             <td>New York, NY</td>
             <td></td>
+            <td>8 weeks part-time</td>
         </tr>
         <tr>
             <td>Thinkful</td>
@@ -56,13 +62,15 @@ However, if you can't afford a directed education (can be very expensive), a [se
             <td>300 per month</td>
             <td></td>
             <td>yes</td>
+            <td>15 hrs/wk for 3 months</td>
         </tr>
         <tr>
             <td>Turing School of Software & Design</td>
             <td><a target="_blank" href="https://www.turing.io/programs/front-end-engineering">Front-End Engineering</a></td>
             <td>20,000</td>
+            <td>Denver, CO</td>
             <td></td>
-            <td>yes</td>
+            <td>7 months full time</td>
         </tr>
         <tr>
             <td>Udacity</td>
@@ -70,11 +78,12 @@ However, if you can't afford a directed education (can be very expensive), a [se
             <td>200 monthly</td>
             <td>multiple locations</td>
             <td>yes</td>
+            <td>6 months 12hrs/wk</td>
         </tr>
     </tbody>
 </table>
 
-***
+---
 
 ###### NOTES:
 
