@@ -32,7 +32,7 @@ Part three briefly explains and identifies tools of the trade.
  
 **Download a .pdf, .epub, or .mobi file from**:
 
-* [https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/](https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/)
+* [https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details](https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
 
 **Contribute content, suggestions, and fixes on github**:
 
