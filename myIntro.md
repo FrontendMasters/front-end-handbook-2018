@@ -1,3 +1,7 @@
+---
+opengraphtitle: Front-End Developer Handbook 2018 - Learn the entire JavaScript, CSS and HTML development practice!
+opengraphdescription: A guide for front-end developers to equip themselves with latest learning resources and development tools in front-end engineering.
+---
 # Front-End Developer Handbook 2018
 
 Written by [Cody Lindley](http://codylindley.com/) sponsored by — [Frontend Masters](https://frontendmasters.com/)

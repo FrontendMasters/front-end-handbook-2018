@@ -1,10 +1,13 @@
 {
+    "title": "Front-End Developer Handbook 2018",
+    "description": "Front-End Developer Handbook is a useful resource for understanding the entire scope of the front-end development practice.",
     "structure": {
         "readme": "myIntro.md"
     },
     "plugins": [
         "scripts",
-        "canonical-link@git+https://github.com/FrontendMasters/gitbook-plugin-canonical-link"
+        "canonical-link@git+https://github.com/FrontendMasters/gitbook-plugin-canonical-link",
+        "open-graph@git+https://github.com/FrontendMasters/gitbook-plugin-open-graph"
     ],
     "pluginsConfig": {
         "scripts": {
@@ -14,6 +17,11 @@
         },
         "canonical-link": {
             "baseURL": "https://frontendmasters.com/books/front-end-handbook/2018"
+        },
+        "open-graph": {
+            "baseURL": "https://frontendmasters.com/books/front-end-handbook/2018",
+            "defaultDescription": "Front-end Developer Handbook is a useful resource for understanding the entire scope of the front-end development practice.",
+            "defaultImage": "images/open-graph-image.jpg"
         }
     }
 }
