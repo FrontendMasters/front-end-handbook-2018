@@ -4,7 +4,9 @@ opengraphdescription: A guide for front-end developers to equip themselves with 
 ---
 # Front-End Developer Handbook 2018
 
-Written by [Cody Lindley](http://codylindley.com/) sponsored by — [Frontend Masters](https://frontendmasters.com/)
+### Written by [Cody Lindley](http://codylindley.com/)
+
+*Sponsored by [Frontend Masters](https://frontendmasters.com/), advancing your skills with in-depth, modern front-end engineering courses*
 
 ![Front End Handbook 2018 Cover](https://frontendmasters.com/books/front-end-handbook/2018/cover.jpg)
 

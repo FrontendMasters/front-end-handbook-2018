@@ -17,7 +17,7 @@
 * [Node.js Basics](http://teamtreehouse.com/library/nodejs-basics) [watch][$]
 * [Node.js in Practice](https://www.amazon.com/Node-js-Practice-Alex-R-Young/dp/1617290939/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=e202c01e97ebad79157fab3b59723e94&camp=1789&creative=9325) [read][$]
 * [Real-time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js) [watch]
-* [Zero to Production Node.js on Amazon Web Services](https://frontendmasters.com/courses/production-node-aws/) [watch][$]
+* [REST & GraphQL API Design in Node.js, v2 (using Express & MongoDB)](https://frontendmasters.com/courses/api-node-rest-graphql/) [watch][$]
 * [Learn Node](https://learnnode.com/) [watch][$]
 
 
