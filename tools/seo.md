@@ -7,6 +7,8 @@
 ##### Tools for Finding SEO Tools:
 
 * [SEO Tools - The Complete List](http://backlinko.com/seo-tools)
+* [CuratedSEOTools - Curated directory of the best SEO tools](https://curatedseotools.com/)
+
 
 
 
