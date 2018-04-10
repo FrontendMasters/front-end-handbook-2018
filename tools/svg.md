@@ -22,6 +22,7 @@
 * [Fontastic](http://fontastic.me/)
 * [Grunticon](http://www.grunticon.com/)
 * [Icomoon](https://icomoon.io/)
+* [Orion Icon Library](https://orioniconlibrary.com/app)
 
 ##### Bug Trackers:
 
