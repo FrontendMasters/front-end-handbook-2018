@@ -6,6 +6,7 @@
 * [Cerebral](https://github.com/cerebral/cerebral)
 * [freactal](https://github.com/FormidableLabs/freactal)
 * [unistore](https://github.com/developit/unistore)
+* [Vuex](https://vuex.vuejs.org/en/)
 
 
 
