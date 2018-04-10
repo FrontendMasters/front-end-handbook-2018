@@ -23,6 +23,10 @@
 * [wait](https://github.com/elving/wait)
 * [xregexp.com](http://xregexp.com/)
 
+##### Transforming JavaScript Objects Tool:
+
+* [transform-www](https://transform.now.sh/)
+
 ##### Transpiling / Type Checking (ES* to ES*):
 
 * [Babel](https://babeljs.io/)
@@ -87,8 +91,7 @@
 
 ##### Sharable/Runnable Code Editors:
 
-* [jsbin.com](http://jsbin.com/) [free to $]
-* [jsfiddle.net](http://jsfiddle.net/)
+* [CodeSandbox](https://codesandbox.io/) [free to $]
 
 ##### Online Regular Expression Editors/Visual Tools:
 

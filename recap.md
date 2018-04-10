@@ -25,7 +25,7 @@ and [JavaScript Object Explorer](https://sdras.github.io/object-explorer/). This
 * Web components still lurking and wait for significant traction by developers that might never come to be.
 * JavaScript settled and [CSS erupt](http://michelebertoli.github.io/css-in-js/) and everyone will cry fatigue by this time next year.
 * A lot of people stop doing CSS in CSS and [move](https://speakerdeck.com/vjeux/react-css-in-js) to [CSS in JS](https://levelup.gitconnected.com/a-brief-history-of-css-in-js-how-we-got-here-and-where-were-going-ea6261c19f04) when building application using component trees.
-* [Yarn](https://yarnpkg.com/en/) seems to have filled a need, because a lot of people jump the npm ship. However, the real value of Yarn is the fact that it brings competition to NPM. Making npm better.
+* [Yarn](https://yarnpkg.com/en/) seems to have filled a need, because a lot of people jumped the npm ship. However, the real value of Yarn is the fact that it brings competition to NPM. Making npm better.
 * A new video format for Interactive coding screencasts (recording of working in a live editor that you can edit too) becomes a real thing with [Scrimba](https://scrimba.com/about).
 * Most people begin to see the correlation between [component architectures](https://en.wikipedia.org/wiki/Component-based_software_engineering) and [atomic design](http://patternlab.io/).
 * And so it begins that ES modules [will](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/) be [part](https://medium.com/dev-channel/es6-modules-in-chrome-canary-m60-ba588dfb8ab7) of [the browser](https://caniuse.com/#feat=es6-module) and if used a [backup plan](https://github.com/WebReflection/ecma) will be required (i.e. a bundle from something like webpack).
