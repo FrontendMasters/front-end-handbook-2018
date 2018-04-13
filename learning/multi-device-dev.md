@@ -18,10 +18,10 @@ A website or web application can run on a wide range of computers, laptops, tabl
 * [Adaptive Web Design](https://www.amazon.com/gp/product/0134216148?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=defa398e66db76e7edbb8ddfa28caa1e&camp=1789&creative=9325) [read][$]
 * [Designing with Progressive Enhancement](https://www.amazon.com/Designing-Progressive-Enhancement-Building-Everyone/dp/0321658884/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=bdac6f12a3d24fe694468aa8145001eb&camp=1789&creative=9325) [read][$]
 * [Mobile Web Development](https://www.udacity.com/course/mobile-web-development--cs256) [watch]
+* [CSS Grids and Flexbox for Responsive Web Design](https://frontendmasters.com/courses/css-grids-flexbox/) [watch][$]
 * [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) [watch][$]
 * [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) [watch]
 * [Responsive Typography](https://www.pluralsight.com/courses/responsive-typography) [watch][$]
-* [Responsive Web Design](https://frontendmasters.com/courses/responsive-web-design/) [watch][$]
 * [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) [watch]
 
 ##### Responsive Newsletters, News, &amp; Podcasts:

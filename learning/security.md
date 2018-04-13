@@ -13,16 +13,8 @@
 * [The Tangled Web: A Guide to Securing Modern Web Applications](http://lcamtuf.coredump.cx/tangled/) [read][$]
 * [Web Security Basics](https://github.com/vasanthk/web-security-basics) [read]
 * [Web security](https://developer.mozilla.org/en-US/docs/Web/Security) [read]
-
-
-
-
-
-
-
-
-
-
+* [Web Security](https://frontendmasters.com/courses/web-security/) [watch][$]
+* [Full Stack for Front End Engineers](https://frontendmasters.com/courses/full-stack/) [watch][$]
 
 
 
