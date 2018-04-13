@@ -39,7 +39,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [CSS Selectors from CSS4 till CSS1](http://css4-selectors.com/selectors/) [read]
 * [CSS Secrets: Better Solutions to Everyday Web Design Problems](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=40a9480c18839b4b2ea798aa2afafd0e&camp=1789&creative=9325) [read][$]
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3) [read]
-* [CSS3 In-Depth](https://frontendmasters.com/courses/css3-in-depth/) [watch][$]
+* [CSS In-Depth, v2](https://frontendmasters.com/courses/css-in-depth-v2/) [watch][$]
 * [What the Flexbox?! A Simple, Free 20 Video Course That Will Help You Master CSS Flexbox](http://flexbox.io/) [watch]
 * [30 Seconds of CSS - A curated collection of useful CSS snippets you can understand in 30 seconds or less.](https://atomiks.github.io/30-seconds-of-css/) [read]
 
