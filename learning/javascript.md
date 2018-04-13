@@ -49,8 +49,8 @@
 * [Mostly adequate guide to FP (in javascript)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) [read]
 * [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) [watch]
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
+* [Functional-Lite JavaScript (v2)](https://frontendmasters.com/courses/functional-javascript-v2/) [watch][$]
 * [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) [watch][$]
-* [Functional-Lite JavaScript](https://frontendmasters.com/courses/functional-js-lite/) [watch][$]
 
 ##### References/Docs:
 
@@ -104,7 +104,7 @@
 * [Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/gp/product/1449360726/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449360726&linkCode=as2&tag=fronenddevejo-20&linkId=BDQC3FTEB3YXTYCK) [read][$]
 * [The Good Parts of JavaScript and the Web](https://frontendmasters.com/courses/good-parts-javascript-web/) [watch][$]
 * [High Performance JavaScript (Build Faster Web Application Interfaces)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) [read][$]
-* [Advanced JavaScript](https://frontendmasters.com/courses/advanced-javascript/) [watch][$]
+* [Deep Foundations of JavaScript](https://frontendmasters.com/courses/javascript-foundations/) [watch][$]
 
 ##### JS Explorers:
 
