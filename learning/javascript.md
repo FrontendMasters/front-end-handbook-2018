@@ -22,6 +22,8 @@
 * [Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/) [read]
 * [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) [read]
 * [Modern JavaScript Cheatsheet - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.](https://github.com/mbeaudru/modern-js-cheatsheet) [read]
+* [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) [watch][$]
+* [Deep Foundations of JavaScript](https://frontendmasters.com/courses/javascript-foundations/) [watch][$]
 
 ##### Mastering:
 
@@ -104,7 +106,6 @@
 * [Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/gp/product/1449360726/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449360726&linkCode=as2&tag=fronenddevejo-20&linkId=BDQC3FTEB3YXTYCK) [read][$]
 * [The Good Parts of JavaScript and the Web](https://frontendmasters.com/courses/good-parts-javascript-web/) [watch][$]
 * [High Performance JavaScript (Build Faster Web Application Interfaces)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) [read][$]
-* [Deep Foundations of JavaScript](https://frontendmasters.com/courses/javascript-foundations/) [watch][$]
 
 ##### JS Explorers:
 
