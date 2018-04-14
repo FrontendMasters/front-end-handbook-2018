@@ -29,6 +29,7 @@ Read:
 * [Using npm as a Task Runner](http://teamtreehouse.com/library/using-npm-as-a-task-runner) [watch][$]
 * [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.z8plsoxxs)
 * [Why npm Scripts?](https://css-tricks.com/why-npm-scripts/)
+* [Helpers and tips for npm run scripts](https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html)
 
 
 
