@@ -8,7 +8,7 @@
 
 ##### Static
 
-* [Firebase Hosting](https://firebase.google.com/docs/hosting/)
+* [Firebase Hosting](https://firebase.google.com/docs/hosting/) [free to $]
 * [netlify](https://www.netlify.com) [free to $]
   * [Bitballoon](https://www.bitballoon.com/)
 * [Surge](https://surge.sh/) [free to $]
@@ -16,4 +16,4 @@
 
 ##### Local Hosting Tools:
 
-[Localname](https://localname.io)
+* [Localname](https://localname.io)
