@@ -4,7 +4,7 @@ The national average in the U.S for a mid-level front-end developer is somewhere
 
 ![](../images/salary.png "https://www.payscale.com/research/US/Job=Front_End_Developer_%2F_Engineer/Salary")
 
-<cite>Image source: <a href="https://www.payscale.com/research/US/Job=Front_End_Developer_%2F_Engineer/Salary,19.htm">https://www.glassdoor.com/Salaries/front-end-developer-salary-SRCH_KO0,19.htm</a></cite>
+<cite>Image source: <a href="https://www.payscale.com/research/US/Job=Front_End_Developer_%2F_Engineer/Salary">https://www.payscale.com/research/US/Job=Front_End_Developer_%2F_Engineer/Salary</a></cite>
 
 ![](../images/salary3.png "https://www.indeed.com/salaries/Front-End-Developer-Salaries")
 
