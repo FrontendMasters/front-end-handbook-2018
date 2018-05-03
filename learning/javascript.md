@@ -57,7 +57,7 @@
 ##### References/Docs:
 
 * [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-* [MSDN JavaScrip Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0.aspx)
+* [MSDN JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0.aspx)
 
 ##### Glossary/Encyclopedia/Jargon:
 
