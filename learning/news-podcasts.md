@@ -3,6 +3,7 @@
 ##### General Front-End Newsletters, News, &amp; Podcasts:
 
 * [The Big Web Show](http://5by5.tv/bigwebshow)
+* [Daily Developer Tips](https://gomakethings.com)
 * [Dev Tips](https://umaar.com/dev-tips/)
 * [Front End Happy Hour](http://frontendhappyhour.com/)
 * [Front-End Front](http://frontendfront.com/)
@@ -41,6 +42,7 @@
 * [JavaScript.com](https://www.javascript.com/news)
 * [JSter](http://jster.net/blog)
 * [React Status](https://react.statuscode.com/)
+* [The Vanilla JavaScript Podcast](https://vanillajspodcast.com/)
 
 ##### Graphic and Animation Newsletters and Podcasts
 
