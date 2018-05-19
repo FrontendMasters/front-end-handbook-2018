@@ -24,6 +24,7 @@
 * [Modern JavaScript Cheatsheet - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.](https://github.com/mbeaudru/modern-js-cheatsheet) [read]
 * [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) [watch][$]
 * [Deep Foundations of JavaScript](https://frontendmasters.com/courses/javascript-foundations/) [watch][$]
+* [Vanilla JS Pocket Guides](https://vanillajsguides.com) [read/watch][$]
 
 ##### Mastering:
 
@@ -64,6 +65,7 @@
 * [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
 * [JavaScript Glossary](https://www.codecademy.com/articles/glossary-javascript)
 * [Simplified JavaScript Jargon](http://jargon.js.org/)
+* [The Vanilla JS Toolkit](https://vanillajstoolkit.com)
 
 ##### Standards/Specifications:
 
@@ -82,6 +84,7 @@
 
 ##### JavaScript Newsletters, News, &amp; Podcasts:
 
+* [Daily Developer Tips](https://gomakethings.com)
 * [Echo JS](http://www.echojs.com/)
 * [ECMAScript Daily](https://ecmascript-daily.github.io/)
 * [ES.next News](http://esnextnews.com/)
@@ -91,6 +94,7 @@
 * [JavaScript Live](https://jslive.com/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [JavaScript.com](https://www.javascript.com/news)
+* [The Vanilla JS Podcast](https://vanillajspodcast.com)
 
 ##### Deprecated JS Learning Resources:
 
