@@ -80,6 +80,14 @@ However, if you can't afford a directed education (can be very expensive), a [se
             <td>yes</td>
             <td>6 months 12hrs/wk</td>
         </tr>
+        <tr>
+            <td>Vanilla JS Academy</td>
+            <td><a target="_blank" href="https://vanillajsacademy.com/">The Vanilla JS Academy</a></td>
+            <td>499</td>
+            <td></td>
+            <td>yes</td>
+            <td>6 weeks part-time</td>
+        </tr>
     </tbody>
 </table>
 
