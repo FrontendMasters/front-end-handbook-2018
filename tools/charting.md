@@ -12,6 +12,7 @@
 * [C3.js](http://c3js.org/)
 * [Chartist-jsj](https://github.com/gionkunz/chartist-js)
 * [Chart.js](http://www.chartjs.org/)
+* [ECharts](http://echarts.baidu.com)
 * [Epoch](http://epochjs.github.io/epoch/)
 * [FusionCharts](http://www.fusioncharts.com/) [$]
 * [Google Charts](https://developers.google.com/chart/interactive/docs/)
