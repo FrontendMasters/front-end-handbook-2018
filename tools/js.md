@@ -99,6 +99,8 @@
 * [regex101](https://regex101.com/)
 * [regexper](http://regexper.com/)
 * [RegExr](http://regexr.com/)
+* [extendsclass](https://extendsclass.com/regex-tester.html)
+* [regextester](https://www.regextester.com/)
 
 ##### Authoring Convention Tools:
 
