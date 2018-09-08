@@ -9,6 +9,7 @@
 ##### Self-hosted Headless CMS Tools:
 
 * [Cockpit](https://getcockpit.com/)
+* [Strapi](https://strapi.io/) [free to $]
 
 ##### Hosted CMS:
 
