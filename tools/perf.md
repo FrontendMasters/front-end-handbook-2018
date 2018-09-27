@@ -9,6 +9,8 @@
 * [Web Page Test](http://www.webpagetest.org/)
 * [Sonarwhal](https://sonarwhal.com)
 * [Datadog](https://www.datadoghq.com) [$]
+* [PWMetrics](https://github.com/paulirish/pwmetrics)
+* [Treo](http://treo.sh)
 
 ##### JS Tools:
 
