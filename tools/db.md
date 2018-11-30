@@ -2,6 +2,7 @@
 
 * [AlaSQL](http://alasql.org/)
 * [Dexie.js](http://www.dexie.org/)
+* [ImmortalDB](https://github.com/gruns/ImmortalDB)
 * [LocalForage](https://localforage.github.io/localForage/)
 * [LokiJS](http://lokijs.org/#/)
 * [Lovefield](https://google.github.io/lovefield)
