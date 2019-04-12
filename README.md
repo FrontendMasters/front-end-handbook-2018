@@ -1,6 +1,6 @@
-# This Book Has Been Updated
+# AVAILABLE NOW: [Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 
-### Updated Book: [Front End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+***
 
 ## Front-End Developer Handbook 2018
 
