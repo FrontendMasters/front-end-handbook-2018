@@ -1,8 +1,6 @@
 # Front-End Developer Handbook 2018
 
-## This Book Has Been Updated:
-
-Updated Book: [FrontEnd Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+# This Book Has Been Updated: [FrontEnd Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 
 ### Written by [Cody Lindley](http://codylindley.com/)
 
