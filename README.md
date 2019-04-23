@@ -1,4 +1,8 @@
-# Front-End Developer Handbook 2018
+# AVAILABLE NOW: [Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+
+***
+
+## Front-End Developer Handbook 2018
 
 ### Written by [Cody Lindley](http://codylindley.com/)
 
@@ -34,16 +38,8 @@ Part three briefly explains and identifies tools of the trade.
 
 **Read Online**:
 
-* [https://frontendmasters.com/books/front-end-handbook/2018/](https://frontendmasters.com/books/front-end-handbook/2018/)
-
-**Download a .pdf, .epub, or .mobi file from**:
-
-* [https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details](https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
-
-**Contribute content, suggestions, and fixes on github**:
-
-* [https://github.com/FrontendMasters/front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018)
-
+* [https://frontendmasters.com/books/front-end-handbook/2018/](https://frontendmasters.com/books/front-end-handbook/2018/) 
+* Translations: [Chinese](https://github.com/xitu/front-end-handbook-2018)
 
 ***
 

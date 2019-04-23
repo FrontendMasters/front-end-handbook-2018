@@ -28,7 +28,7 @@ These operating systems typically run on one or more of the following devices:
 Generally speaking, front-end technologies can run on the aforementioned operating systems and devices using the following run time web platform scenarios:
 
 * A web browser (examples: [Chrome, IE, Safari, Firefox](http://outdatedbrowser.com/en)).
-* A [headless browser](https://en.wikipedia.org/wiki/Headless_browser) (examples: [phantomJS](http://phantomjs.org/)).
+* A [headless browser](https://en.wikipedia.org/wiki/Headless_browser) (examples: [puppeteer](https://pptr.dev/)).
 * A [WebView](http://developer.telerik.com/featured/what-is-a-webview/)/browser tab (think iframe) embedded within a native application as a runtime with bridge to native APIs. WebView applications typically contain a UI constructed from web technologies. (i.e., HTML, CSS, and JS). (examples: [Apache Cordova](https://cordova.apache.org/), [NW.js](http://nwjs.io/), [Electron](http://electron.atom.io/))
 * A native application built from web tech that is interpreted at runtime with a bridge to native APIs. The UI will make use of native UI parts (e.g., iOS native controls) not web technologies. (examples: [NativeScript](https://www.nativescript.org/), [React Native](https://facebook.github.io/react-native/))
 
