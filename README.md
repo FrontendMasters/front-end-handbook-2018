@@ -38,7 +38,8 @@ Part three briefly explains and identifies tools of the trade.
 
 **Read Online**:
 
-* [https://frontendmasters.com/books/front-end-handbook/2018/](https://frontendmasters.com/books/front-end-handbook/2018/) ([Chinese](https://github.com/xitu/front-end-handbook-2018))
+* [https://frontendmasters.com/books/front-end-handbook/2018/](https://frontendmasters.com/books/front-end-handbook/2018/) 
+* Translations: [Chinese](https://github.com/xitu/front-end-handbook-2018)
 
 ***
 
