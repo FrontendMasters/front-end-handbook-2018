@@ -37,13 +37,7 @@ Part two identifies self-directed and direct resources for learning to become a 
 Part III: Front-End Development Tools
 ---
 Part three briefly explains and identifies tools of the trade.
-
-***
  
-**Download a .pdf, .epub, or .mobi file from**:
-
-* [https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details](https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
-
 **Contribute content, suggestions, and fixes on github**:
 
 * [https://github.com/FrontendMasters/front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018)
