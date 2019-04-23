@@ -11,6 +11,7 @@
 * [React 🎄](https://react.holiday/) [read]
 * [React Enlightenment](https://www.reactenlightenment.com/) [read]
 * [REACT JS TUTORIAL #1 - Reactjs Javascript Introduction & Workspace Setup](https://www.youtube.com/watch?v=MhkGQAoc7bc&t=6s) [watch]
+* [React For Beginners](https://ReactForBeginners.com) [watch][$]
 
 ##### Mastering React:
 

@@ -1,16 +1,20 @@
-# Front-End Developer Handbook 2018
+# AVAILABLE NOW: [Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+
+***
+
+## Front-End Developer Handbook 2018
 
 ### Written by [Cody Lindley](http://codylindley.com/)
 
 *Sponsored by [Frontend Masters](https://frontendmasters.com/), advancing your skills with in-depth, modern front-end engineering courses*
 
-![](cover.jpg)
+[![Front End Developer Handbook 2018 Cover](https://frontendmasters.com/books/front-end-handbook/2018/cover.jpg)](https://frontendmasters.com/books/front-end-handbook/2018/)
 
 This is a guide that anyone could use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2018.
 
-It is specifically written with the intention of being a professional resource for potential and currently practicing front-end developers to equip themselves with learning materials and development tools. Secondarily, it can be used by managers, CTOs, instructors, and head hunters to gain insights into the practice of front-end development.
+It is specifically written with the intention of being a professional resource for potential and currently practicing front-end developers to equip themselves with learning materials and development tools. Secondarily, it can be used by managers, CTOs, instructors, and headhunters to gain insights into the practice of front-end development.
 
-The content of the handbook favors web technologies (HTML, CSS, DOM, and JavaScript) and those solutions that are directly built on top of these open technologies. The materials referenced and discussed in the book are either best in class or the current offering to a problem.
+The content of the handbook favors web technologies (HTML, CSS, DOM, and JavaScript) and those solutions that are directly built on top of these open technologies. The materials referenced and discussed in the book are either best in class or the current offering of a problem.
 
 The book should not be considered a comprehensive outline of all resources available to a front-end developer. The value of the book is tied up in a terse, focused, and timely curation of just enough categorical information so as not to overwhelm anyone on any one particular subject matter.
 
@@ -34,11 +38,8 @@ Part three briefly explains and identifies tools of the trade.
 
 **Read Online**:
 
-* [https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/](https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/)
-
-**Download a .pdf, .epub, or .mobi File From**:
-
-* [https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details](https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
+* [https://frontendmasters.com/books/front-end-handbook/2018/](https://frontendmasters.com/books/front-end-handbook/2018/) 
+* Translations: [Chinese](https://github.com/xitu/front-end-handbook-2018)
 
 ***
 

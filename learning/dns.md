@@ -13,3 +13,4 @@
 * [How DNS Works](https://howdns.works/ep1/) [read]
 * [The Internet: IP Addresses and DNS](https://www.youtube.com/watch?v=5o8CwafCxnU&index=3&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) [watch]
 * [What is a domain name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name) [read]
+* [Full Stack for Front End Engineers](https://frontendmasters.com/courses/full-stack/) [watch][$]

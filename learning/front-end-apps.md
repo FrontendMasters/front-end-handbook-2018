@@ -5,7 +5,7 @@
 * [JavaScript Application Design](https://www.amazon.com/JavaScript-Application-Design-Build-Approach/dp/1617291951?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=4dd15b53493d3b5148af2b3e5488e98d&camp=1789&creative=9325) [read][$]
 * [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) [read]
 * [Grab Front End Guide](https://github.com/grab/front-end-guide) [read]
-* [A set of best practices for JavaScript projects](https://github.com/wearehive/project-guidelines)
+* [A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
 

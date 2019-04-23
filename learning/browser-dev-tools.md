@@ -14,7 +14,7 @@ I'd suggest learning and using the [Chrome web developer tools](https://develope
 
 ##### Learn Chrome Web Developer Tools:
 
-* [Chrome Developer Tools](https://code.tutsplus.com/courses/chrome-developer-tools) [watch][$]
+* [Modern DevTools](https://moderndevtools.com/) [watch][$ + free]
 * [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/) [watch]
 * [Mastering Chrome Developer Tools](https://frontendmasters.com/courses/chrome-dev-tools/) [watch][$]
 * [Using The Chrome Developer Tools](http://www.pluralsight.com/courses/chrome-developer-tools) [watch][$]
