@@ -17,7 +17,7 @@ A plethora of technical job listing outlets exist. The narrowed list below are c
 
 ###### NOTES:
 
-Looking for a remote front-end Job, check out these [Remote-friendly companies](https://github.com/jessicard/remote-jobs)
+Looking for a remote front-end Job, check out these [Remote-friendly companies](https://remoteintech.company/)
 
 
 
