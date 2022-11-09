@@ -1,6 +1,7 @@
 # JavaScript Error Reporting/Monitoring
 
 * [bugsnag](https://bugsnag.com/) [$]
+* [elmah.io](https://elmah.io/features/clientside-logging/) [free to $]
 * [errorception](https://errorception.com/) [$]
 * [Honeybadger](https://www.honeybadger.io) [$]
 * [Raygun](https://raygun.io) [$]
