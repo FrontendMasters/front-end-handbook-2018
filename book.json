@@ -6,8 +6,8 @@
     },
     "plugins": [
         "scripts",
-        "canonical-link@git+https://github.com/FrontendMasters/gitbook-plugin-canonical-link",
-        "open-graph@git+https://github.com/FrontendMasters/gitbook-plugin-open-graph"
+        "canonical-link",
+        "open-graph"
     ],
     "pluginsConfig": {
         "scripts": {
