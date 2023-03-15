@@ -17,13 +17,13 @@ phases:
   pre_build:
     commands:
       - apt-get update -y
-      - curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
-      - apt-get install -y nodejs
+      - curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+      - apt-get install -y --force-yes nodejs
       - npm install
   build:
     commands:
       - echo Build started on `date`
-      - honkit build
+      - npm run build
 
   post_build:
     commands:
