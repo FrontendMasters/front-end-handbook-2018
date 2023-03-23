@@ -1,8 +1,6 @@
 # Summary
 
 * [What Is a Front-End Developer?](what-is-a-FD.md)
-* [Recap of Front-end Dev in 2017](recap.md)
-* [In 2018 expect...](2018.md)
 * [Part I: The Front-End Practice](practice.md)
 	* [Front-End Jobs Titles](practice/types-of-front-end-dev.md)
     * [Common Web Tech Employed](practice/tech-employed-by-fd.md)
@@ -102,7 +100,6 @@
     * [JS Error Monitoring Tools](tools/error.md)
     * [Performance Tools](tools/perf.md)
     * [Tools for Finding Tools](tools/find-tools.md)
+* [Recap of Front-end Dev in 2017](recap.md)
+* [In 2018 expect...](2018.md)
 * [Sponsored by Frontend Masters](frontendmasters.md)
-
-
-
