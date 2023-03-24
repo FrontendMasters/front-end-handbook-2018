@@ -144,3 +144,5 @@ On going Professional Resources for Learning
 *   [JS Party](https://changelog.com/jsparty)
 *   [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/)
 *   [My JavaScript Story](https://topenddevs.com/podcasts/my-javascript-story)
+
+#### We hope you enjoyed this guide! [Upgrade Your Front-End Developer Skills Today with Frontend Masters](https://frontendmasters.com/?utm_source=website&utm_medium=website&utm_campaign=handbook-2018) ❤️

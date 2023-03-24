@@ -68,3 +68,4 @@ When the word "Testing" or "QA" is included in the job title, this will denote t
 
 If you come across the "Full Stack" or the generic "Web Developer" terms in job titles these words may be used by an employer to describe a role that is responsible for all aspects of web/app development, i.e., both front-end (potentially including design) and back-end.
 
+#### We hope you enjoyed this guide! [Upgrade Your Front-End Developer Skills Today with Frontend Masters](https://frontendmasters.com/?utm_source=website&utm_medium=website&utm_campaign=handbook-2018) ❤️

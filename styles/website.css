@@ -1,4 +1,4 @@
-cite{
+cite {
 	margin-top: -30px;
 	font-size:10px;
 	text-align: center;
@@ -6,9 +6,22 @@ cite{
 }
 
 .page-inner ul, .page-inner ol {
-	margin-bottom:15px !important;
+	margin-bottom: 15px !important;
 }
 
 small{
-	font-size:10px;
+	font-size: 10px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .book-body, 
+	.book-summary {
+		background: black;
+		color: #eee;
+	}
+	.book-body .markdown-section,
+	.book-summary ul.summary li a,
+	.book-summary ul.summary li span {
+		color: #eee;
+	}
 }
