@@ -1,4 +1,4 @@
-cite{
+cite {
 	margin-top: -30px;
 	font-size:10px;
 	text-align: center;
@@ -6,9 +6,64 @@ cite{
 }
 
 .page-inner ul, .page-inner ol {
-	margin-bottom:15px !important;
+	margin-bottom: 15px !important;
+}
+
+.book-summary ul.summary li {
+	font-size: 16px;
 }
 
 small{
-	font-size:10px;
+	font-size: 10px;
+}
+
+.book .book-summary .book-logo {
+	text-align: center;
+	padding: 20px;
+	background: rgb(59 16 13);  
+	border-bottom: 3px solid rgb(209 69 40);
+}
+
+.markdown-section p,
+.markdown-section li {
+	font-size: 18px;
+	line-height: 1.7;
+}
+
+.book-summary {
+	background: #3b100d;
+}
+
+#book-search-input {
+	margin-bottom: 5px;
+}
+
+.book-body, 
+nav .summary {
+	background: white;
+}
+
+@media (prefers-color-scheme: dark) {
+  .book-body, 
+	nav .summary {
+		background: black;
+		color: #eee;
+		border-right: 1px solid #515151;
+	}
+	.book-body .markdown-section,
+	.book-summary ul.summary li a,
+	.book-summary ul.summary li span {
+		color: #eee;
+	}
+	.book-body .markdown-section a,
+	.book-summary ul.summary li.active>a {
+		color: #6fb8ff;
+	}
+	#book-search-input {
+		background-color: black;
+		color: #eee;
+	}
+	.markdown-section hr {
+		background-color: #454545;
+	}
 }
