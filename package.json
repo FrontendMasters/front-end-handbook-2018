@@ -14,6 +14,6 @@
     "gitbook-plugin-open-graph": "^0.0.1",
     "gitbook-plugin-scripts": "^1.0.2",
     "honkit": "^4.0.4",
-    "honkit-plugin-theme-fm": "github:FrontendMasters/honkit-plugin-theme-fm"
+    "gitbook-plugin-theme-fm": "github:FrontendMasters/honkit-plugin-theme-fm"
   }
 }
