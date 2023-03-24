@@ -2,7 +2,7 @@
 description: "A front-end developer is a type of software developer who specializes in creating and designing the user interface (UI) and user experience (UX) of websites and web applications."
 ---
 
-# What Is a Front-End Developer? Guide to the Front-End Development Profession
+# What Does a Front-End Developer Do? Complete Guide to the Front-End Developer Profession
 
 A front-end developer is a type of software developer who specializes in creating and designing the user interface (UI) and user experience (UX) of websites and web applications. The primary responsibility of a front-end developer is to ensure that the visual and interactive aspects of a website or application are user-friendly, aesthetically pleasing, and functionally efficient.
 
@@ -269,3 +269,7 @@ Occupational Challenges
 *   Front-end developers today are stuck in an evolving job situation where a professional aptitude for UI design, software architecture, interaction design, and back-end/server-side programming can be placed on the front-end developer. Essentially, unrealistic expectations are being placed on front-end developers to operate at a professional level anywhere in the development stack while also being proficient at user interface development.
 
 #### We hope you enjoyed this guide! [Upgrade Your Front-End Developer Skills Today with Frontend Masters](https://frontendmasters.com/?utm_source=website&utm_medium=website&utm_campaign=handbook-2018) ❤️
+
+<script type="application/ld+json">
+  {"@context":"https://schema.org","@graph":[{"@id":"https://frontendmasters.com/guides/front-end-handbook/2018/what-is-a-FD.html","@type":"Article","headline":"What Does a Front-End Developer Do? Complete Guide to the Front-End Developer Profession","image":"https://frontendmasters.com/guides/front-end-handbook/2019/assets/images/FM_2019Cover_final.jpg","datePublished":"2018-12-13T18:56:13.551Z","dateModified":"2023-03-24T11:37:40.114Z","timeRequired":"PT4M19.5S","author":{"@type":"Person","name":"Frontend Masters","url":"https://frontendmasters.com","image":"https://frontendmasters.github.io/bootcamp/static/FrontendMastersLogo-f72cae0c73fecbb6beecea606d8fabd3-a040c.png"},"publisher":{"@type":"Organization","name":"Frontend Masters","url":"https://frontendmasters.com","logo":"https://frontendmasters.github.io/bootcamp/static/FrontendMastersLogo-f72cae0c73fecbb6beecea606d8fabd3-a040c.png"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Frontend Masters Guides","@id":"https://frontendmasters.com/guides/"}},{"@type":"ListItem","position":2,"item":{"name":"Development","@id":"https://frontendmasters.com/guides/front-end-handbook/2018/"}},{"@type":"ListItem","position":3,"item":{"name":"What Does a Front-End Developer Do? Complete Guide to the Front-End Developer Profession","@id":"https://frontendmasters.com/guides/front-end-handbook/2018/what-is-a-FD.html"}}]}]}
+</script>
