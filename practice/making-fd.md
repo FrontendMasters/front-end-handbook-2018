@@ -26,7 +26,7 @@ Lately a lot of non-accredited, expensive, front-end code schools/bootcamps have
 
 For example if you want to get going today, consuming one or more of the following self-directed resources below can work:
 
-* [2016/2017 MUST-KNOW WEB DEVELOPMENT TECH](https://www.youtube.com/watch?v=sBzRwzY7G-k) [watch]
+* [Complete Intro to Web Development](https://frontendmasters.com/courses/web-development-v3/) [watch]
 * [A Beginner's Guide to Front-End Programming](https://www.springboard.com/learning-paths/beginners-guide-front-end-programming/learn/) [read & watch][free to $]
 * [Become a Front-End Web Developer](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) [watch][$]
 * [Front-End Curriculum](https://gist.github.com/stevekinney/03027e71aac341af14a2) [read]
@@ -35,15 +35,11 @@ For example if you want to get going today, consuming one or more of the followi
 * [Front End Web Development Career Kickstart](http://www.pluralsight.com/courses/front-end-web-development-career-kickstart) [watch][$]
 * [Front End Web Development: Get Started](http://www.pluralsight.com/courses/front-end-web-development-get-started) [watch][$]
 * [Front-End Web Development Quick Start With HTML5, CSS, and JavaScript](http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css) [watch][$]
-* [Introduction to Web Development](https://frontendmasters.com/courses/web-development/) [watch][$]
-* [Foundations of Front-End Web Development](https://www.udemy.com/foundations-of-front-end-development/) [watch][$]
-* [Lean Front-End Engineering](https://frontendmasters.com/courses/lean-front-end-engineering/) [watch][$]
 * [Learn Front End Web Development](https://teamtreehouse.com/tracks/front-end-web-development) [watch][$]
-* [Front-End Dev Mastery](https://mijingo.com/products/bundles/front-end-dev-mastery/) [watch][$]
 * [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) [watch][$]
-* [Full Stack for Front End Engineers](https://frontendmasters.com/courses/full-stack/) [$]
+* [Full Stack for Front End Engineers](https://frontendmasters.com/courses/fullstack-v2/) [$]
 
-If you are not a self motivated individual and need a more structured approach you should consider a [directed learning path](../learning/direct-learning.md#get-there).
+If you are not a self motivated individual and need a more structured approach you should consider a [directed learning path](https://frontendmasters.com/learn/).
 
 When getting your start, you should fear most things that conceal complexity. Abstractions in the wrong hands can give the appearance of advanced skills, while all the time hiding the fact that a developer has an inferior understanding of the basics or underlying concepts.
 
