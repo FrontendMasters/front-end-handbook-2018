@@ -7,13 +7,9 @@
     "plugins": [
         "scripts",
         "canonical-link",
-        "open-graph",
-        "theme-fm"
+        "open-graph"
     ],
     "pluginsConfig": {
-        "theme-api": {
-            "theme": "theme-fm"
-        },
         "scripts": {
             "files": [
                 "./gtm-analytics.js"

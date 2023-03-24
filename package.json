@@ -13,7 +13,6 @@
     "gitbook-plugin-canonical-link": "^2.0.3",
     "gitbook-plugin-open-graph": "^0.0.1",
     "gitbook-plugin-scripts": "^1.0.2",
-    "honkit": "^4.0.4",
-    "gitbook-plugin-theme-fm": "github:FrontendMasters/honkit-plugin-theme-fm"
+    "honkit": "^4.0.4"
   }
 }

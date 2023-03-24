@@ -1,3 +1,9 @@
+function insertLogo() {
+    document.querySelector('.book-summary').insertAdjacentHTML('afterbegin', 
+    `<div class="book-logo"><a href="https://frontendmasters.com/?utm_source=website&utm_medium=website&utm_campaign=handbook-2018"><img width=250 height=40 src="https://static.frontendmasters.com/assets/fm/js/images/frontendmasters_3bcb5619.svg"></a></div>`);
+}
+insertLogo();
+
 /*
  * Google Tag Manager Tracking
  */
