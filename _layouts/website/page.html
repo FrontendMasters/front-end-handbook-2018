@@ -16,11 +16,11 @@
   <script>
     var $ctaCloseButton = document.querySelector("[data-cta-close]");
     if ($ctaCloseButton) {
-      if (sessionStorage.fmCta2017Closed) {
+      if (sessionStorage.fmCta2018Closed) {
         $ctaCloseButton.parentElement.remove();
       } else {
         $ctaCloseButton.addEventListener("click", function() {
-          sessionStorage.fmCta2017Closed = "yes";
+          sessionStorage.fmCta2018Closed = "yes";
           $ctaCloseButton.parentElement.remove();
         })
       }
