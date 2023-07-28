@@ -6,13 +6,13 @@
     "url": "git+https://github.com/FrontendMasters/front-end-handbook-2018.git"
   },
   "scripts": {
-    "build": "honkit build",
-    "serve": "honkit serve"
+    "start": "honkit serve",
+    "build": "honkit build"
   },
   "devDependencies": {
     "gitbook-plugin-canonical-link": "^2.0.3",
     "gitbook-plugin-open-graph": "^0.0.1",
     "gitbook-plugin-scripts": "^1.0.2",
-    "honkit": "^4.0.4"
+    "honkit": "^5.0.0"
   }
 }

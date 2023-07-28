@@ -1,4 +1,9 @@
-cite {
+body {
+	display: flex;
+	flex-direction: column;
+}
+
+cite{
 	margin-top: -30px;
 	font-size:10px;
 	text-align: center;
@@ -6,64 +11,60 @@ cite {
 }
 
 .page-inner ul, .page-inner ol {
-	margin-bottom: 15px !important;
-}
-
-.book-summary ul.summary li {
-	font-size: 16px;
+	margin-bottom:15px !important;
 }
 
 small{
-	font-size: 10px;
+	font-size:10px;
 }
 
-.book .book-summary .book-logo {
-	text-align: center;
-	padding: 20px;
-	background: rgb(59 16 13);  
-	border-bottom: 3px solid rgb(209 69 40);
+.FmCta {
+	align-items: flex-start;
+	background: #000;
+	color: #fff;
+	display: flex;
+	gap: 15px;
+	line-height: 2;
+	padding: 10px 15px;
 }
 
-.markdown-section p,
-.markdown-section li {
-	font-size: 18px;
-	line-height: 1.7;
+.FmCtaLogo svg {
+	fill: #c02d28;
+	vertical-align: middle;
+	width: 25px;
 }
 
-.book-summary {
-	background: #3b100d;
+.FmCtaLogo:hover svg {
+	fill: #dd625e;
 }
 
-#book-search-input {
-	margin-bottom: 5px;
+.FmCtaText {
+	display: flex;
+	flex: 1;
+	gap: 15px;
 }
 
-.book-body, 
-nav .summary {
-	background: white;
+.FmCtaText a {
+	color: #ccc;
+	font-weight: bold;
 }
 
-@media (prefers-color-scheme: dark) {
-  .book-body, 
-	nav .summary {
-		background: black;
-		color: #eee;
-		border-right: 1px solid #515151;
-	}
-	.book-body .markdown-section,
-	.book-summary ul.summary li a,
-	.book-summary ul.summary li span {
-		color: #eee;
-	}
-	.book-body .markdown-section a,
-	.book-summary ul.summary li.active>a {
-		color: #6fb8ff;
-	}
-	#book-search-input {
-		background-color: black;
-		color: #eee;
-	}
-	.markdown-section hr {
-		background-color: #454545;
-	}
+.FmCtaText a:hover {
+	color: #fff;
+}
+
+.FmCtaClose {
+	background: none;
+	border: none;
+	color: #888;
+	font-size: 25px;
+	height: 30px;
+	line-height: 1;
+	outline: none;
+	padding-bottom: 5px;
+	width: 30px;
+}
+
+.FmCtaClose:hover {
+	color: #fff;
 }
